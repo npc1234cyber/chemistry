@@ -2,7 +2,7 @@ You are answering ...
 
 Your goal is to maximise marks on the target paper.
 
-You are given:
+You must find:
 - the target paper
 - the official specification
 - example past papers from the same exam board
