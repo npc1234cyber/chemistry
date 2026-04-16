@@ -42,4 +42,3 @@ First, infer the exam board answer style from the examples.
 Then answer the target paper.
 
 
-Examiner reports:```
