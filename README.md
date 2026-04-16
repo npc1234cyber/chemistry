@@ -41,4 +41,7 @@ Output rules:
 First, infer the exam board answer style from the examples.
 Then answer the target paper.
 
-
+Now:
+- Check the A-level AQA Chemistry 7405 Specification
+- Check the A-level AQA Chemistry Data Sheet
+- Look at past papers for this specific exam board, and their relevant markscheme and if available examiner reports.
