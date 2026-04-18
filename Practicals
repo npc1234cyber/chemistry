@@ -1,0 +1,866 @@
+AQA A-Level Chemistry — Practical Guide
+Safety and Hazards
+Hazard	Precaution
+Irritant (dilute acid/alkalis)	Wear goggles
+Corrosive (stronger acids/alkalis)	Wear goggles
+Flammable	Keep away from naked flames
+Toxic	Wear gloves, avoid skin contact, wash hands after use
+Oxidising	Keep away from flammable/easily oxidised materials
+Hazardous substances in low concentrations or amounts will not pose the same risks as the pure substance.
+
+General Techniques
+Heating in a Crucible
+Used for measuring mass loss in thermal decomposition reactions and mass gain when reacting magnesium in oxygen.
+
+Example reaction: CaSO₄·xH₂O(s) → CaSO₄(s) + xH₂O(g)
+
+Method:
+
+Weigh an empty clean dry crucible and lid
+Add 2 g of hydrated calcium sulfate to the crucible and weigh again
+Heat strongly with a Bunsen for a couple of minutes
+Allow to cool
+Weigh the crucible and contents again
+Heat crucible again and reweigh until you reach a constant mass (ensures reaction is complete)
+Key points:
+
+The lid prevents loss of solid from the crucible but should be loose fitting to allow gas to escape
+Large amounts (e.g. 50 g) should not be used — decomposition likely to be incomplete
+Small amounts (e.g. 0.100 g) should not be used — percentage uncertainties in weighing will be too high
+The crucible must be dry — a wet crucible would give inaccurate results (mass loss too large as water lost on heating)
+Worked Example 1: 3.51 g of hydrated zinc sulfate heated → 1.97 g anhydrous zinc sulfate. Find x in ZnSO₄·xH₂O.
+
+Mass of H₂O = 3.51 – 1.97 = 1.54 g
+Moles ZnSO₄ = 1.97 / 161.5 = 0.0122
+Moles H₂O = 1.54 / 18 = 0.0856
+Ratio = 0.0856 / 0.0122 = 7
+x = 7
+Using a Gas Syringe
+Used for measuring volume of gas (to work out moles or follow reaction rates).
+
+Key points:
+
+Volume of gas depends on pressure and temperature — record both
+Moles of gas calculated using ideal gas equation: PV = nRT
+Draw diagrams without gaps where gas could escape
+Draw measurement markings on the barrel
+Potential errors:
+
+Gas escapes before bung inserted
+Syringe sticks
+Soluble gases (CO₂, SO₂) — true amount of gas not measured
+Method for calculating Mr of a volatile liquid (e.g. propanone):
+
+Extract 0.20 cm³ of propanone into a hypodermic syringe and measure its mass
+Using hand protection, remove a gas syringe from the oven and note the volume of air already in the barrel (~5 cm³)
+Inject propanone through the self-seal cap into the barrel — plunger moves immediately
+Put the gas syringe back into the oven
+Measure the mass of the empty hypodermic syringe immediately
+After a few minutes, measure volume of gas, record oven temperature and room pressure
+Worked Example 2: 0.150 g of volatile liquid, 70°C, 100 kPa, 80 cm³
+
+100 kPa = 100 000 Pa; 80 cm³ = 0.00008 m³; T = 343 K
+Moles = PV/RT = (100 000 × 0.00008) / (8.31 × 343) = 0.00281 mol
+Mr = 0.15 / 0.00281 = 53.4 g mol⁻¹
+Measuring Mass Accurately
+Measure mass on 2 or 3 d.p. balance of a weighing bottle with the required quantity of solid
+Empty into reaction vessel/flask
+Reweigh the now empty weighing bottle
+Subtract to give exact mass actually added
+Making a Standard Solution
+Weigh the sample bottle containing the required mass of solid on a 2 d.p. balance
+Transfer to beaker; reweigh empty sample bottle; record the difference in mass
+Add 100 cm³ of distilled water to the beaker; stir with a glass rod to dissolve (heat gently if needed)
+Pour solution into a 250 cm³ volumetric flask via a funnel
+Rinse beaker, funnel and glass rod — add washings to the flask
+Make up to the mark with distilled water using a dropping pipette for the last few drops
+Invert flask several times to ensure uniform solution
+Key points:
+
+Fill so the bottom of the meniscus sits on the line on the neck of the flask
+Do not heat or put hot solutions in the volumetric flask — heat causes expansion and incorrect volume
+Dilutions
+Pipette 25 cm³ of original solution into a 250 cm³ volumetric flask
+Make up to the mark with distilled water using a dropping pipette for last few drops
+Invert flask several times to ensure uniform solution
+Using a volumetric pipette is more accurate than a measuring cylinder because it has a smaller uncertainty.
+
+Filtration
+Gravitational filtration: Use if small amounts of solid are formed. Filter paper in a filter funnel; filtrate collects below.
+
+Vacuum (Buchner) filtration: Use if larger amounts of solid are formed. Buchner funnel + flask connected to water pump to reduce pressure and speed up filtration. Buchner flask has thicker glass walls to cope with the vacuum.
+
+AQA expect filter paper to be drawn on diagrams for both types.
+
+Required Practical 1: Acid–Base Titration
+General Method
+Rinse equipment: burette with acid, pipette with alkali, conical flask with distilled water
+Pipette 25 cm³ of alkali into conical flask
+Touch surface of alkali with pipette (ensures correct amount added)
+Add acid solution from burette; ensure jet space is filled with acid
+Add a few drops of indicator; refer to colour change at end point
+Use a white tile underneath to help observe colour change
+Add acid to alkali whilst swirling; add dropwise at end point
+Note burette reading before and after addition
+Repeat until at least 2 concordant results (within 0.1 cm³ of each other)
+Using the Pipette
+Rinse pipette with substance to go in it
+Fill to the mark — bottom of meniscus on the line
+Touch surface of solution with pipette to ensure correct amount
+Small amount left in pipette is accounted for by calibration — do not force it out
+Using the Burette
+Rinse with the substance that will be put in it (prevents dilution/reaction with residual water)
+Don't leave the funnel in the burette — drops may fall during titration → false reading
+Fill jet space and remove air bubbles
+If jet space fills during titration → larger than expected titre
+Read the bottom of the meniscus
+Record to 2 d.p. ending in 0.00 or 0.05 (0.05 cm³ = 1 drop)
+Indicators
+Indicator	Alkali Colour	End Point	Acid Colour	Best Used With
+Phenolphthalein	Pink	Pink just disappears	Colourless	Strong alkalis (e.g. NaOH)
+Methyl orange	Yellow	Orange	Red	Strong acids (e.g. HCl)
+Only add a few drops — indicators are weak acids and too much will affect the result.
+
+Additional Points
+Distilled water can be added to the conical flask during titration to wash sides — does not affect result (doesn't change moles of acid)
+Only distilled water should be used to wash out conical flasks between titrations
+A conical flask is used in preference to a beaker — easier to swirl without spilling
+Recording Results
+Titration	1	2	3
+Initial burette reading (cm³)	0.50	2.50	1.55
+Final burette reading (cm³)	24.50	27.00	25.95
+Titre (cm³)	24.00	24.50	24.40
+Average titre = (24.50 + 24.40) / 2 = 24.45 cm³ (only average concordant results)
+
+Common Titration Equations
+CH₃CO₂H + NaOH → CH₃CO₂⁻Na⁺ + H₂O
+H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O
+HCl + NaOH → NaCl + H₂O
+NaHCO₃ + HCl → NaCl + CO₂ + H₂O
+Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O
+Permanganate (MnO₄⁻) Redox Titrations
+Self-indicating — significant colour change from purple MnO₄⁻ to colourless Mn²⁺.
+
+MnO₄⁻(aq) + 8H⁺(aq) + 5Fe²⁺(aq) → Mn²⁺(aq) + 4H₂O(l) + 5Fe³⁺(aq)
+
+End point (if MnO₄⁻ in burette): first permanent pink colour (colourless → purple).
+
+Choosing the Correct Acid
+Only use dilute sulfuric acid.
+
+Insufficient H₂SO₄: Not acidic enough → MnO₂ produced instead of Mn²⁺; brown MnO₂ masks colour change → inaccurate (greater) volume
+Ethanoic acid (weak): Cannot supply enough H⁺ → same problem as above
+HCl: Cl⁻ oxidised to Cl₂ by MnO₄⁻ (E° MnO₄⁻/Mn²⁺ = +1.51 V > E° Cl₂/Cl⁻ = +1.36 V) → greater volume + poisonous Cl₂
+HNO₃: Oxidising agent → oxidises Fe²⁺ to Fe³⁺ (E° NO₃⁻/HNO₂ = +0.94 V > E° Fe³⁺/Fe²⁺ = +0.77 V) → smaller volume
+Iron Tablet Analysis — Detailed Procedure
+Weigh accurately two ferrous sulfate tablets
+Grind up with a little 1 M H₂SO₄ using pestle and mortar
+Transfer paste into 100 cm³ volumetric flask via funnel; rinse with further small volumes of 1 M H₂SO₄
+Make up to 100 cm³ with 1 M H₂SO₄; stopper and shake
+Titrate 10.0 cm³ portions with 0.0050 M KMnO₄; end point = first permanent purple colour
+Worked Example 3: Iron in an Alloy
+2.41 g nail dissolved in 100 cm³ acid. 10 cm³ portions titrated with 0.02 M KMnO₄. Titre = 9.80 cm³.
+
+Moles KMnO₄ = 0.02 × 9.80/1000 = 1.96 × 10⁻⁴ mol
+Moles Fe²⁺ in 10 cm³ = 1.96 × 10⁻⁴ × 5 = 9.80 × 10⁻⁴ mol
+Moles Fe²⁺ in 100 cm³ = 9.80 × 10⁻⁴ × 10 = 9.80 × 10⁻³ mol
+Mass Fe = 9.80 × 10⁻³ × 55.8 = 0.547 g
+% mass = (0.547 / 2.41) × 100 = 22.7%
+Other MnO₄⁻ Titrations
+With hydrogen peroxide:
+
+Ox: H₂O₂ → O₂ + 2H⁺ + 2e⁻
+Red: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O
+Overall: 2MnO₄⁻ + 6H⁺ + 5H₂O₂ → 5O₂ + 2Mn²⁺ + 8H₂O
+With ethanedioate (oxalate):
+
+Ox: C₂O₄²⁻ → 2CO₂ + 2e⁻
+Red: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O
+Overall: 2MnO₄⁻ + 16H⁺ + 5C₂O₄²⁻ → 10CO₂ + 2Mn²⁺ + 8H₂O
+Reaction between MnO₄⁻ and C₂O₄²⁻ is slow initially (collision between two negative ions). Heat conical flask to 60°C to speed up.
+
+With iron(II) ethanedioate (FeC₂O₄): Both Fe²⁺ and C₂O₄²⁻ react with MnO₄⁻.
+
+Overall: 3MnO₄⁻ + 24H⁺ + 5FeC₂O₄ → 10CO₂ + 3Mn²⁺ + 5Fe³⁺ + 12H₂O
+Ratio: 3 MnO₄⁻ : 5 FeC₂O₄
+Worked Example 4: FeC₂O₄·2H₂O Purity
+1.412 g impure FeC₂O₄·2H₂O dissolved in excess H₂SO₄, made up to 250 cm³. 25.0 cm³ decolourised 23.45 cm³ of 0.0189 mol dm⁻³ KMnO₄.
+
+Moles KMnO₄ = 0.0189 × 23.45/1000 = 4.43 × 10⁻⁴ mol
+Moles FeC₂O₄·2H₂O in 25 cm³ = 4.43 × 10⁻⁴ × 5/3 = 7.39 × 10⁻⁴ mol
+Moles in 250 cm³ = 7.39 × 10⁻⁴ × 10 = 7.39 × 10⁻³ mol
+Mass = 7.39 × 10⁻³ × 179.8 = 1.33 g
+% mass = (1.33 / 1.412) × 100 = 94.1%
+EDTA Titrations
+[Cu(H₂O)₆]²⁺ + EDTA⁴⁻ → [Cu(EDTA)]²⁻ + 6H₂O — always 1:1 ratio with any metal ion.
+
+Worked Example 5: 25.0 cm³ river water titrated with 0.0150 mol dm⁻³ EDTA⁴⁻; 6.45 cm³ required.
+
+Moles EDTA⁴⁻ = 0.0150 × 6.45/1000 = 9.68 × 10⁻⁵ mol
+Moles Cu²⁺ = 9.68 × 10⁻⁵ mol (1:1)
+Concentration Cu²⁺ = 9.68 × 10⁻⁵ / 0.025 = 0.00387 mol dm⁻³
+Uncertainty
+Apparatus Uncertainties
+Apparatus	Uncertainty
+Balance (3 d.p.)	±0.001 g
+Volumetric flask	±0.1 cm³
+25 cm³ pipette	±0.1 cm³
+Burette (start + end + endpoint)	±0.15 cm³
+Analogue scale: Reading (one judgement) = ±0.5 of smallest scale division. Measurement (two judgements) = ±1 of smallest scale division.
+
+Digital scale: Uncertainty = ±resolution of apparatus.
+
+Percentage Uncertainty
+% uncertainty = (uncertainty / measurement) × 100
+
+Total % apparatus uncertainty = sum of all individual equipment uncertainties.
+
+Reducing Uncertainties
+In titrations: Replace measuring cylinders with pipettes/burettes (lower uncertainty). Make titre larger by increasing volume/concentration in conical flask or decreasing concentration in burette.
+
+In weighing: Use a more accurate balance or a larger mass. Weigh before and after then calculate difference.
+
+Percentage Difference (Accuracy Check)
+% difference = |actual – calculated| / actual × 100
+
+If % apparatus uncertainty < % difference → discrepancy due to other errors
+If % apparatus uncertainty > % difference → no discrepancy; all errors explained by equipment sensitivity
+Required Practical 2: Measurement of an Enthalpy Change
+Calorimetric Method
+Equation: Q = m × cₚ × ΔT
+
+Where: Q (J), m (g), cₚ (J g⁻¹ K⁻¹), ΔT (K)
+
+Assumes: heat capacity of solution = water (4.18 J g⁻¹ K⁻¹); density of solution = 1 g cm⁻³
+
+General Method
+Wash equipment with the solutions to be used; dry the cup
+Put polystyrene cup in a beaker for insulation and support
+Measure volumes of solutions with volumetric pipettes; transfer to insulated cup
+Clamp thermometer with bulb immersed in solution
+Measure initial temperature every minute for 2–3 minutes
+At minute 3, transfer second reagent (if solid, weigh using before-and-after method)
+Stir mixture
+Record temperature every minute for several minutes
+Extrapolation Method (for slow reactions)
+If reaction is slow, cooling occurs simultaneously. Take readings at regular intervals and extrapolate the temperature curve back to the time of addition. Plot temperature vs time; draw two best-fit lines (before and after addition); extrapolate both to the addition time.
+
+Errors
+Energy transfer to/from surroundings
+Approximation in specific heat capacity (assumes all solutions = water)
+Neglecting heat capacity of calorimeter
+Reaction may be incomplete or slow
+Density of solution assumed same as water
+Calculating ΔH from Experimental Data
+Calculate Q = m × cₚ × ΔT
+Calculate moles of reactant not in excess
+ΔH = Q / moles
+Add sign (exothermic = negative) and unit (kJ mol⁻¹)
+Worked Example 6: Displacement Reaction
+25.0 cm³ of 0.20 M CuSO₄ reacted with 0.01 mol Zn (excess). Temperature increased 7.0°C.
+
+Q = 25 × 4.18 × 7 = 731.5 J
+Moles CuSO₄ = 0.2 × 25/1000 = 0.005 mol (not in excess)
+ΔH = 731.5 / 0.005 = 146 300 J mol⁻¹ = 146 kJ mol⁻¹
+Temperature increased → exothermic → ΔH = –146 kJ mol⁻¹
+Note: mass = mass of CuSO₄ solution only (do not include Zn powder)
+
+Worked Example 7: Neutralisation
+25.0 cm³ of 2.0 M HCl + 25.0 cm³ of 2.0 M NaOH. Temperature increased 13.5°C.
+
+Q = 50 × 4.18 × 13.5 = 2821.5 J (mass = acid + alkali = 50 g)
+Moles HCl = 2 × 25/1000 = 0.05 mol
+ΔH = 2821.5 / 0.05 = 56 430 J mol⁻¹
+ΔH = –56.4 kJ mol⁻¹
+Hess's Law — Hydration Enthalpy Example
+ΔH reaction
+CuSO₄(s) + 5H₂O(l) ————————→ CuSO₄·5H₂O(s)
+     |                                    |
+     | –66.1 kJ mol⁻¹ (+aq)     (+aq) +11 kJ mol⁻¹
+     ↓                                    ↑
+              CuSO₄(aq)
+ΔH reaction = –66.1 – 11 = –77.1 kJ mol⁻¹
+
+This cannot be done directly — impossible to add exact water without dissolving. Instead both salts dissolved in excess water.
+
+Detailed Method: Enthalpy of Solution of Anhydrous CuSO₄
+Weigh 3.90–4.10 g anhydrous CuSO₄ in a dry weighing bottle (record precise mass)
+Use volumetric pipette to place 25 cm³ deionised water in polystyrene cup; record temperature at t=0, then every minute, stirring continuously
+At minute 4, add CuSO₄ rapidly; continue stirring but don't record temperature
+Reweigh empty weighing bottle
+From minute 5 to 15, stir and record temperature every minute
+Plot temperature vs time; draw two best-fit lines; extrapolate both to minute 4
+Determine ΔT at minute 4
+Calculate Q = 25 × 4.18 × ΔT
+Calculate ΔH(solution) = Q / moles CuSO₄
+Repeat with hydrated copper sulfate. Use the two ΔH(solution) values to calculate ΔH for hydration via Hess's law.
+
+Flame Calorimetry (Enthalpies of Combustion)
+Burn fuel → heat water in metal cup. Measure: mass of spirit burner before/after, temperature change of water, volume of water.
+
+Errors: Energy losses, incomplete combustion, incomplete energy transfer, evaporation of fuel after weighing, heat capacity of calorimeter not included, H₂O is gas not liquid (non-standard conditions).
+
+Worked Example 8: Combustion of Propan-1-ol
+0.65 g propan-1-ol combusted; 150 g water heated from 20.1 to 45.5°C.
+
+Q = 150 × 4.18 × 25.4 = 15 925.8 J (mass = mass of water, not alcohol)
+Moles = 0.65 / 60 = 0.01083 mol
+ΔH = 15 925.8 / 0.01083 = 1 470 kJ mol⁻¹
+ΔcH = –1470 kJ mol⁻¹
+Required Practical 3: Rate of Reaction vs Temperature
+Experiment: Sodium Thiosulfate and Hydrochloric Acid
+Na₂S₂O₃ + 2HCl → 2NaCl + SO₂ + S + H₂O
+
+Rate measured as 1/time where time = time for a cross underneath to disappear (due to sulfur cloudiness). This approximates initial rate because the amount of sulfur to obscure the cross is constant in each experiment.
+
+Method:
+
+Measure 10 cm³ of 0.2 M HCl and 10 cm³ of Na₂S₂O₃ in separate measuring cylinders; put in separate boiling tubes
+Use a water bath to get both solutions to the chosen temperature
+Place flask on the large cross; add Na₂S₂O₃ first, then add HCl and start stopwatch; swirl to mix
+Stop the clock when the cross disappears; note the time
+Repeat for four more temperatures (maximum 70°C)
+Analysis — Calculating Activation Energy
+The Arrhenius equation rearranges to: ln k = constant – Ea/(RT)
+
+Since k ∝ rate: ln(rate) ≈ ln(1/t)
+
+Plot ln(1/t) vs 1/T → straight line with gradient = –Ea/R
+
+∴ Ea = –gradient × R (8.31)
+
+Worked Example
+T (K)	1/T	t (s)	1/t	ln(1/t)
+297.3	0.003364	53	0.01887	–3.970
+310.6	0.003220	24	0.04167	–3.178
+317.2	0.003153	16	0.06250	–2.773
+323.9	0.003087	12	0.08333	–2.485
+335.6	0.002980	6	0.16667	–1.792
+Gradient = –5680
+
+Ea = –(–5680) × 8.31 = 47 200 J mol⁻¹ = +47.2 kJ mol⁻¹
+
+Use a line of best fit; use all graph paper; choose points far apart on the graph.
+
+Required Practical 4: Testing for Ions
+Testing for Cations with Dilute NaOH
+Method: Add ~10 drops of 0.6 M NaOH to ~10 drops of 0.1 M metal ion solution. Continue adding NaOH dropwise until excess.
+
+Group 2 Results
+Ion	Observation	Ionic Equation
+Mg²⁺	White precipitate (insoluble)	Mg²⁺(aq) + 2OH⁻(aq) → Mg(OH)₂(s)
+Ca²⁺	White precipitate (partially soluble; may need more NaOH)	Ca²⁺(aq) + 2OH⁻(aq) → Ca(OH)₂(s)
+Sr²⁺ / Ba²⁺	No precipitate (hydroxides too soluble)	—
+Aluminium
+White precipitate of Al(OH)₃ → dissolves in excess NaOH (colourless solution):
+
+[Al(H₂O)₆]³⁺(aq) + 3OH⁻(aq) → Al(H₂O)₃(OH)₃(s) + 3H₂O(l)
+Al(H₂O)₃(OH)₃(s) + OH⁻(aq) → [Al(OH)₄]⁻(aq) + 3H₂O(l)
+Al(OH)₃ is amphoteric — dissolves in both acids and bases.
+
+Transition Metals
+Ion	Precipitate
+Cu²⁺	Blue precipitate
+Fe²⁺	Green precipitate
+Fe³⁺	Brown precipitate
+Equations:
+
+[Cu(H₂O)₆]²⁺ + 2OH⁻ → Cu(H₂O)₄(OH)₂(s) + 2H₂O
+[Fe(H₂O)₆]²⁺ + 2OH⁻ → Fe(H₂O)₄(OH)₂(s) + 2H₂O
+[Fe(H₂O)₆]³⁺ + 3OH⁻ → Fe(H₂O)₃(OH)₃(s) + 3H₂O
+Testing for Ammonium Ions (NH₄⁺)
+Add ~10 drops of 0.4 M NaOH to ~10 drops of 0.1 M NH₄Cl
+Warm gently using a water bath
+Hold damp red litmus paper in mouth of test tube
+Result: Alkaline ammonia gas released → turns red litmus paper blue.
+
+Testing for Cations with Sulfate Solution
+Method: Add ~10 drops of 1.0 M H₂SO₄ to ~10 drops of 0.1 M metal ion solution.
+
+Ion	Observation
+Mg²⁺ / Ca²⁺	No precipitate (sulfates soluble)
+Sr²⁺	White precipitate: Sr²⁺(aq) + SO₄²⁻(aq) → SrSO₄(s)
+Ba²⁺	White precipitate: Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)
+Testing for Anions
+Sulfate Ions (SO₄²⁻)
+Add BaCl₂ solution acidified with HCl → white precipitate of BaSO₄:
+
+Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)
+
+HCl needed to react with carbonate impurities (would form white BaCO₃ → false positive). Cannot use H₂SO₄ (contains sulfate ions → false positive).
+
+Halide Ions
+Add silver nitrate solution acidified with dilute HNO₃:
+
+Halide	Precipitate	Ammonia Test
+F⁻	No precipitate	—
+Cl⁻	White precipitate (AgCl)	Dissolves in dilute NH₃
+Br⁻	Cream precipitate (AgBr)	Dissolves in concentrated NH₃
+I⁻	Pale yellow precipitate (AgI)	Does not dissolve in NH₃
+Equations:
+
+Ag⁺(aq) + Cl⁻(aq) → AgCl(s)
+Ag⁺(aq) + Br⁻(aq) → AgBr(s)
+Ag⁺(aq) + I⁻(aq) → AgI(s)
+AgCl(s) + 2NH₃(aq) → [Ag(NH₃)₂]⁺(aq) + Cl⁻(aq)
+HNO₃ is added to prevent Ag₂CO₃ precipitate from carbonates masking results.
+
+Carbonate Ions (CO₃²⁻)
+Add any dilute acid → effervescence. Bubble gas through limewater → turns cloudy (CO₂ test).
+
+2HCl + Na₂CO₃ → 2NaCl + H₂O + CO₂
+
+Hydroxide Ions (OH⁻)
+Red litmus paper → turns blue.
+
+Reactions of Solid Halide Salts with Concentrated H₂SO₄
+Reducing power of halides increases down Group 7 (larger ions → electrons further from nucleus → easier to donate).
+
+Fluoride and Chloride — not strong enough reducing agents. Only acid–base reactions:
+
+NaF(s) + H₂SO₄(l) → NaHSO₄(s) + HF(g) — white steamy fumes
+NaCl(s) + H₂SO₄(l) → NaHSO₄(s) + HCl(g) — white steamy fumes
+Bromide — reduces S from +6 to +4:
+
+Acid–base: NaBr(s) + H₂SO₄(l) → NaHSO₄(s) + HBr(g)
+Redox: 2HBr + H₂SO₄ → Br₂(g) + SO₂(g) + 2H₂O(l)
+Observations: white steamy fumes (HBr), red/orange fumes (Br₂), colourless acidic gas (SO₂)
+Iodide — reduces S from +6 to +4, 0, and –2:
+
+NaI(s) + H₂SO₄(l) → NaHSO₄(s) + HI(g)
+2HI + H₂SO₄ → I₂ + SO₂ + 2H₂O
+6HI + H₂SO₄ → 3I₂ + S + 4H₂O
+8HI + H₂SO₄ → 4I₂ + H₂S + 4H₂O
+Observations: white steamy fumes (HI), black solid / purple fumes (I₂), colourless acidic gas (SO₂), yellow solid (S), bad egg smell (H₂S)
+Reduction products: SO₂, S, H₂S
+Solubility Rules
+Soluble	Insoluble
+All sodium, potassium and ammonium salts	—
+All nitrates	—
+Most chlorides, bromides, iodides	Silver, lead halides
+Most sulfates	Lead, strontium, barium sulfate
+Na, K, NH₄ carbonates	Most other carbonates
+Na, K, NH₄ hydroxides	Most other hydroxides
+Ionic Equations for Precipitation
+Remove spectator ions (ions not changing state or oxidation number):
+
+Full: Ba(NO₃)₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaNO₃(aq) Ionic: Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)
+
+Required Practical 5: Distillation of a Product
+Partial Oxidation of Primary Alcohols → Aldehydes
+Reagent: K₂Cr₂O₇(VI) and dilute H₂SO₄ Conditions: Limited oxidising agent; warm gently and distil out the aldehyde as it forms
+
+CH₃CH₂CH₂OH + [O] → CH₃CH₂CHO + H₂O
+
+Observation: Orange Cr₂O₇²⁻ reduces to green Cr³⁺
+
+Safety: Wear gloves — K₂Cr₂O₇ is highly toxic and a category 2 carcinogen. Concentrated H₂SO₄ is corrosive.
+
+Detailed Method:
+
+Place ~10 cm³ dilute H₂SO₄ in a flask; add ~3 g K₂Cr₂O₇ and 2–3 anti-bumping granules; shake until dissolved (do not warm)
+Add 1.5 cm³ propan-1-ol in drops from a dropping pipette, shaking to mix
+Assemble distillation apparatus
+Gently heat and slowly distil ~2 cm³ of liquid into a test tube
+Full Oxidation of Primary Alcohols → Carboxylic Acids
+Reagent: K₂Cr₂O₇/Na₂Cr₂O₇(VI) and H₂SO₄ Conditions: Excess oxidising agent; heat under reflux; distil product after reaction
+
+CH₃CH₂CH₂OH + 2[O] → CH₃CH₂COOH + H₂O
+
+Detailed Method:
+
+Measure 5 cm³ water into boiling tube; add 6 g Na₂Cr₂O₇; shake and dissolve
+Put ~1.5 cm³ propan-1-ol in a 50 cm³ round-bottomed flask with ~5 cm³ water and anti-bumping granules; assemble reflux condenser
+Add 2 cm³ concentrated H₂SO₄ down the condenser in drops
+While warm, add Na₂Cr₂O₇ solution down the condenser in drops (energy from reaction should make it boil)
+Keep boiling for 10 minutes with Bunsen
+Rearrange for distillation; distil ~2–3 cm³
+Distillation Apparatus
+Key points:
+
+Thermometer bulb at the T-junction connecting to condenser
+Water enters bottom of Liebig condenser (against gravity — more efficient cooling)
+Electric heaters for organic chemicals (flammable — avoid naked flames)
+Do not draw lines between flask, adaptor and condenser
+Reflux Apparatus
+Key points:
+
+Condenser prevents organic vapours escaping by condensing them back to liquid
+Never seal the top of the condenser (gas pressure buildup → explosion)
+Anti-bumping granules prevent vigorous uneven boiling
+Water in at bottom, water out at top
+Do not draw lines between flask and condenser; top of condenser must be open
+Fractional Distillation
+Used to separate liquids with different boiling points:
+
+Heat the flask
+Vapours pass up the fractionating column
+Lower boiling point substances reach the top first
+Higher boiling point vapours condense back into flask
+Only most volatile vapour passes into condenser and is collected
+Required Practical 6: Tests for Functional Groups
+Functional Group	Reagent	Positive Result
+Alkene	Bromine water	Orange colour decolourises
+Aldehyde	Tollens' reagent [Ag(NH₃)₂]⁺	Silver mirror formed
+Aldehyde	Fehling's solution (blue Cu²⁺)	Blue solution → red precipitate (Cu₂O)
+Carboxylic acid	Na₂CO₃	Effervescence (CO₂)
+1°/2° alcohol, aldehyde	Na₂Cr₂O₇ / H₂SO₄	Orange → green colour change
+Chloroalkane	Warm with AgNO₃	Slow formation of white precipitate (AgCl)
+Acyl chloride	AgNO₃ (room temperature)	Vigorous reaction, steamy fumes of HCl, rapid white precipitate
+Tollens' Reagent Method
+Place 1 cm³ AgNO₃ solution in a clean boiling tube
+Add 1 drop NaOH to form silver oxide precipitate
+Add NH₃ solution dropwise until a clear colourless solution forms
+Add a few drops of the unknown; leave in water bath for a few minutes
+CH₃CHO + 2Ag⁺ + H₂O → CH₃COOH + 2Ag + 2H⁺
+
+Fehling's Solution Method
+Place 1 cm³ Fehling's A in a boiling tube; add Fehling's B until blue precipitate redissolves
+Add a few drops of unknown; leave in water bath
+CH₃CHO + 2Cu²⁺ + 2H₂O → CH₃COOH + Cu₂O + 4H⁺
+
+Testing for Halogenoalkanes (Relative Rate of Hydrolysis)
+Method:
+
+Add 3 drops each of 1-chlorobutane, 1-bromobutane, 1-iodobutane to separate test tubes
+Add 4 cm³ of 0.02 M AgNO₃ to each
+Place all simultaneously in a hot water bath
+Note the order in which precipitates appear
+Hydrolysis: CH₃CH₂X + H₂O → CH₃CH₂OH + X⁻ + H⁺
+
+The halide ion combines with Ag⁺ to form a silver halide precipitate. Rate of precipitate formation = rate of hydrolysis.
+
+Order of reactivity: iodoalkane > bromoalkane > chloroalkane (C–I bond weakest → hydrolyses fastest)
+
+Precipitate	Colour
+AgI	Yellow (forms fastest)
+AgBr	Cream
+AgCl	White (forms slowest)
+Required Practical 7: Rate of Reaction
+Initial Rate Method — Clock Reactions
+Iodine Clock Example:
+
+H₂O₂(aq) + 2H⁺(aq) + 2I⁻(aq) → I₂(aq) + 2H₂O(l)
+2S₂O₃²⁻(aq) + I₂(aq) → 2I⁻(aq) + S₄O₆²⁻(aq)
+When all thiosulfate consumed, excess I₂ reacts with starch → sudden dark blue-black colour.
+
+Method:
+
+Measure chemicals from burettes into separate containers
+In each experiment, vary one reactant concentration (e.g. I⁻) while keeping others constant; add water to maintain total volume
+Pour H₂O₂ into the conical flask, start timer immediately, stir
+Time until the first hint of blue/black appears
+Initial rate ∝ 1/t
+
+Determining Order Graphically: Rate = k[I⁻]ⁿ → log(rate) = log k + n·log[I⁻]
+
+Plot log(rate) vs log[I⁻] → gradient = n (the order)
+
+Continuous Monitoring Method
+Follow one experiment over time, recording change in concentration.
+
+Methods include:
+
+Volume of gas (gas syringe) — e.g. Mg + HCl → MgCl₂ + H₂
+Change in mass (gas escapes) — works better for heavier gases (CO₂)
+Titrating samples — remove sample, quench, titrate with suitable reagent
+Colorimetry — if reactant/product is coloured
+Electrical conductivity — if number of ions changes
+Optical activity — if chirality changes during reaction
+Gas Syringe Method (Mg + HCl):
+
+Measure 50 cm³ of 1.0 M HCl into conical flask
+Set up gas syringe in stand
+Weigh 0.20 g magnesium
+Add Mg to flask, place bung firmly, start timer
+Record volume of H₂ every 15 seconds for 3 minutes
+Initial rate = gradient of concentration–time graph at t = 0
+
+Pseudo-zero order: If one reactant is in large excess, its concentration stays virtually constant → appears not to affect rate.
+
+Required Practical 8: EMF of an Electrochemical Cell
+Method
+Clean zinc and copper foils with emery; degrease with propanone on cotton wool
+Place copper strip in 100 cm³ beaker with ~50 cm³ of 1 M CuSO₄
+Place zinc strip in 100 cm³ beaker with ~50 cm³ of 1 M ZnSO₄
+Use a strip of filter paper soaked in saturated KNO₃ for the salt bridge
+Connect metals to voltmeter using crocodile clips and leads
+Salt Bridge
+Conducts charge via free-moving ions
+Usually filter paper soaked in KNO₃ (or glass U-tube with cotton wool plugs)
+Salt must be unreactive with electrodes and solutions (e.g. KCl unsuitable for Cu systems — Cl⁻ forms complexes with Cu²⁺)
+A wire cannot be used — it would set up its own electrode system
+Half-Cell Without a Conducting Metal
+Use an inert platinum electrode (unreactive, conducts electricity).
+
+Example: Fe²⁺/Fe³⁺ half-cell
+
+Combine Cu half-cell with Fe²⁺/Fe³⁺ half-cell using Pt electrode
+Electrolyte: mixture of acidified 1.0 M FeSO₄ and 0.5 M Fe₂(SO₄)₃ (so [Fe²⁺] = 1 M, [Fe³⁺] = 1 M)
+Use a fresh salt bridge
+Required Practical 9: pH Curves (Titration Curves)
+Method
+Transfer 25 cm³ of acid to conical flask with volumetric pipette
+Calibrate pH meter first using a buffer of known pH (probe in pH 4 buffer → press calibration)
+Measure initial pH
+Add alkali in small amounts (2 cm³), noting volume added
+Stir mixture to equalise pH
+Measure and record pH to 1 d.p.
+Near the endpoint, add in smaller volumes
+Continue until alkali is in excess
+Improve accuracy by maintaining constant temperature.
+
+Summary of pH Curve Shapes
+Combination	Equivalence Point pH	Steep Region	Start pH
+Strong acid + Strong base	7	~3 to ~9	~1
+Weak acid + Strong base	>7	~7 to ~9	~3
+Strong acid + Weak base	<7	~4 to ~7	~1
+Weak acid + Weak base	~7	No steep part	~3
+Half-Neutralisation (Weak Acids)
+At ½ neutralisation volume: [HA] = [A⁻], therefore Ka = [H⁺] and pKa = pH
+
+Required Practical 10: Preparation of Pure Organic Solid and Liquid
+Recrystallisation (Purifying a Solid)
+Step	Reason
+1. Dissolve impure compound in minimum volume of hot (near boiling) solvent	Minimum volume → saturated solution → enables crystallisation on cooling
+2. Hot filter through fluted filter paper quickly	Removes insoluble impurities; heat prevents premature crystallisation
+3. Cool filtered solution in ice bath	Crystals reform; soluble impurities remain in solution (unsaturated)
+4. Vacuum filter with Buchner flask	Speeds up filtration
+5. Wash crystals with distilled water	Removes soluble impurities
+6. Dry between absorbent paper	—
+Loss of yield: crystals lost in filtering/washing; some product stays in solution; side reactions.
+
+If crystals not dried properly → mass too large → % yield >100%
+
+Preparation of Aspirin — Detailed Method
+Reaction: 2-hydroxybenzoic acid + ethanoic anhydride → aspirin + ethanoic acid
+
+Ethanoic anhydride used instead of acyl chlorides — cheaper, less corrosive, less vulnerable to hydrolysis, less dangerous.
+
+Add 2.0 g 2-hydroxybenzoic acid + 4 cm³ ethanoic anhydride to a 50 cm³ pear-shaped flask
+Add 5 drops 85% phosphoric(V) acid; swirl to mix
+Fit reflux condenser; heat on boiling water bath for ~5 minutes
+Without cooling, carefully add 2 cm³ water down the condenser (excess anhydride hydrolyses — vigorous boiling)
+Pour mixture into 40 cm³ cold water; stir and rub sides with glass rod to induce crystallisation; stand in ice bath
+Collect by suction filtration; wash with a little water
+Purification (recrystallisation with ethanol):
+
+Add crude aspirin to 15 cm³ ethanol in a boiling tube
+Place tube in beaker of hot water (~75°C) — avoid naked flames (ethanol flammable)
+Stir until all dissolved
+Hot filter through warmed funnel and fluted filter paper
+Pour filtrate into 40 cm³ water in conical flask
+Cool slowly → white needles separate; cool further in ice bath
+Filter under reduced pressure; dry on filter paper; record mass
+Nitration — Detailed Method
+Dissolve 2.5 cm³ methyl benzoate in 5 cm³ concentrated H₂SO₄ in a small conical flask; cool in ice
+Prepare nitrating mixture: add 2 cm³ conc H₂SO₄ dropwise to 2 cm³ conc HNO₃; cool in ice
+Add nitrating mixture dropwise to methyl benzoate solution; stir with thermometer; keep below 10°C (prevents multiple substitution)
+Allow to stand at room temperature for 15 minutes
+Pour onto ~25 g crushed ice; stir until ice melts → crystalline methyl 3-nitrobenzoate forms
+Purify as above
+Conc acids are corrosive — wear gloves. Exothermic reaction — add dropwise and cool.
+
+Measuring Melting Point (Purity Test)
+Pure sample → sharp melting point matching data book value
+Impure → lowered melting point, melts over a range
+Method: Small sample in capillary tube; heat slowly near melting point (electronic machine or oil bath with thermometer).
+
+Error possible if thermometer temperature ≠ actual sample temperature.
+
+Purifying an Organic Liquid
+Put impure distillate in a separating funnel
+Wash with either:
+NaHCO₃ solution (neutralises remaining acid; release CO₂ pressure)
+Saturated NaCl solution (helps separate organic/aqueous layers)
+Allow layers to separate; run and discard aqueous layer (usually lower — higher density)
+Run organic layer into clean dry conical flask
+Add drying agent (anhydrous Na₂SO₄ or CaCl₂) — liquid should appear clear when dry
+Decant liquid into distillation flask (leave drying agent behind)
+Distil to collect pure product
+Drying agent requirements: Insoluble in and unreactive with the organic liquid.
+
+Preparing Cyclohexene from Cyclohexanol — Detailed Method
+Pour ~20 cm³ cyclohexanol into a weighed 50 cm³ pear-shaped flask; reweigh
+Carefully add ~8 cm³ concentrated H₃PO₄ with frequent shaking
+Add anti-bumping granules; assemble distillation apparatus; heat gently, distilling liquid which boils below 100°C
+Pour distillate into separating funnel; add 50 cm³ saturated NaCl solution; shake; separate layers
+Run off lower (aqueous) layer; transfer upper layer (crude cyclohexene) to a small conical flask
+Add lumps of anhydrous CaCl₂ or Na₂SO₄; stopper, shake, allow to stand until liquid is clear
+Decant into a clean, dry, weighed sample container
+Reweigh; calculate mass of dry cyclohexene
+Preparing and Purifying an Ester — Detailed Method
+Reaction: CH₃COOH + CH₃CH₂CH₂OH → CH₃COOCH₂CH₂CH₃ + H₂O
+
+Mix 50 cm³ propan-1-ol + 50 cm³ ethanoic acid in a 250 cm³ round-bottomed flask
+Add 10 cm³ concentrated H₂SO₄ drop by drop (catalyst; exothermic — cool in ice bath)
+Fit reflux condenser; gently boil on electric heating mantle for ~30 minutes
+Cool; rearrange for distillation; distil off crude ester (~60 cm³)
+Place in separating funnel; shake with ~half volume of 30% Na₂CO₃ solution (reacts with unreacted acid + catalyst; release CO₂ pressure); discard lower aqueous layer
+Shake with ~half volume of 50% CaCl₂ solution (removes unreacted alcohol); discard lower layer
+Run ester into clean dry flask with anhydrous CaCl₂; swirl (liquid clear when dry)
+Filter into clean dry flask with anti-bumping granules; distil; collect fraction boiling 100–103°C
+Measuring Boiling Point (Purity Test)
+Pure liquid → boiling point matches data books
+Impure → boiling point tends to be higher
+Note the pressure — changing pressure changes boiling point
+Thermometer should be above the liquid surface, measuring the saturated vapour temperature
+Required Practical 11: Testing Transition Metal Ions
+With NaOH (limited and excess)
+Method: Add NaOH dropwise to ~10 drops of metal ion solution until excess.
+
+Ion	Limited NaOH	Excess NaOH
+Cu²⁺	Blue precipitate	No change (insoluble)
+Fe²⁺	Green precipitate	No change
+Fe³⁺	Brown precipitate	No change
+Al³⁺	White precipitate	Dissolves → colourless [Al(OH)₄]⁻ solution
+Equations (limited):
+
+[Cu(H₂O)₆]²⁺ + 2OH⁻ → Cu(H₂O)₄(OH)₂(s) + 2H₂O
+[Fe(H₂O)₆]²⁺ + 2OH⁻ → Fe(H₂O)₄(OH)₂(s) + 2H₂O
+[Fe(H₂O)₆]³⁺ + 3OH⁻ → Fe(H₂O)₃(OH)₃(s) + 3H₂O
+[Al(H₂O)₆]³⁺ + 3OH⁻ → Al(H₂O)₃(OH)₃(s) + 3H₂O
+Excess NaOH (Al only):
+
+Al(H₂O)₃(OH)₃(s) + OH⁻ → [Al(OH)₄]⁻(aq) + 3H₂O
+Al(OH)₃ is amphoteric: Al(H₂O)₃(OH)₃(s) + 3H⁺ → [Al(H₂O)₆]³⁺(aq)
+
+Stepwise equations:
+
+[Al(H₂O)₆]³⁺ + OH⁻ → [Al(H₂O)₅(OH)]²⁺ + H₂O
+[Al(H₂O)₅(OH)]²⁺ + OH⁻ → [Al(H₂O)₄(OH)₂]⁺ + H₂O
+With NH₃ (limited and excess)
+Method: Add NH₃ solution dropwise until excess.
+
+Limited NH₃: Same precipitates as NaOH (NH₃ acts as Brønsted–Lowry base, accepting H⁺)
+
+[Fe(H₂O)₆]²⁺ + 2NH₃ → Fe(H₂O)₄(OH)₂(s) + 2NH₄⁺
+[Fe(H₂O)₆]³⁺ + 3NH₃ → Fe(H₂O)₃(OH)₃(s) + 3NH₄⁺
+Excess NH₃ — Cu²⁺ only: Precipitate dissolves → deep blue solution (ligand substitution; NH₃ acts as Lewis base):
+
+Cu(OH)₂(H₂O)₄(s) + 4NH₃ → [Cu(NH₃)₄(H₂O)₂]²⁺(aq) + 2H₂O + 2OH⁻
+With Na₂CO₃
+Method: Add ~10 drops of metal ion solution to ~10 drops of Na₂CO₃ solution.
+
+2+ ions → MCO₃ precipitate (precipitation reaction):
+
+Cu²⁺(aq) + CO₃²⁻(aq) → CuCO₃(s) — blue/green precipitate
+Fe²⁺(aq) + CO₃²⁻(aq) → FeCO₃(s) — green precipitate
+3+ ions → M(OH)₃ precipitate + CO₂ gas (acidity reaction):
+
+2[Fe(H₂O)₆]³⁺ + 3CO₃²⁻ → 2Fe(OH)₃(H₂O)₃(s) + 3CO₂ + 3H₂O — brown precipitate
+2[Al(H₂O)₆]³⁺ + 3CO₃²⁻ → 2Al(OH)₃(H₂O)₃(s) + 3CO₂ + 3H₂O — white precipitate
+M₂(CO₃)₃ does not form with 3+ ions — greater polarising power of 3+ ion (higher charge density) decomposes the carbonate.
+
+Required Practical 12: Thin-Layer Chromatography
+Method
+Wearing gloves (prevent contamination), draw a pencil line 1 cm above the bottom of a TLC plate
+Mark equally spaced spots along the line
+Use a capillary tube to add a tiny drop of each solution to a different spot; allow to air dry
+Add solvent to a chamber or beaker with lid — no more than 1 cm depth
+Place TLC plate in chamber — solvent level must be below the pencil line; replace lid (prevents evaporation of toxic solvent)
+When solvent reaches ~1 cm from top, remove plate; mark solvent front with pencil
+Dry in fume cupboard (solvent is toxic)
+View under UV lamp if spots are colourless; circle spots in pencil
+Calculate Rf values
+Key points:
+
+Pencil line — won't dissolve in solvent
+Tiny drops — too large causes spots to merge
+Lid — prevents evaporation
+Rf Value
+Rf = distance moved by substance / distance moved by solvent
+
+Separation Principle
+Separation depends on balance between solubility in the mobile phase and retention in the stationary phase
+Solid stationary phase separates by adsorption
+Liquid stationary phase separates by relative solubility
+If stationary phase is polar and mobile phase is non-polar: non-polar compounds travel further (greater solubility in mobile phase)
+Rf values compared with standards to identify substances
+Equilibrium Constant Kc (Esterification Experiment)
+Reaction
+CH₃CO₂H + CH₃CH₂OH ⇌ CH₃CO₂CH₂CH₃ + H₂O
+
+Method
+Part 1 — Preparing the equilibrium mixture:
+
+Use burettes to mix carboxylic acid, alcohol, and dilute H₂SO₄ catalyst in a boiling tube
+Swirl, bung tube, and leave for one week to reach equilibrium
+Part 2 — Titrating the equilibrium mixture:
+
+Transfer contents to a 250 cm³ volumetric flask via funnel; rinse boiling tube; make up to 250 cm³
+Pipette 25.0 cm³ into a 250 cm³ conical flask
+Add 3–4 drops phenolphthalein indicator
+Titrate with NaOH solution until mixture just turns pink
+Repeat until concordant
+NaOH reacts with both H₂SO₄ catalyst and unreacted carboxylic acid.
+
+The pink colour may fade after the end-point because NaOH addition can shift the equilibrium towards reactants.
+
+Calculations
+Moles of acid from titration:
+
+Calculate moles NaOH from titre
+Scale up from 25 cm³ to 250 cm³ (×10)
+Total moles H⁺ = moles carboxylic acid + moles acid catalyst
+Moles carboxylic acid at equilibrium = total H⁺ − (moles H₂SO₄ × 2)
+Initial moles of reactants:
+
+From densities and volumes: mass = density × volume; moles = mass / Mr
+Equilibrium amounts of other species:
+
+Amount reacted = initial − equilibrium
+Products at equilibrium = 0 + amount formed
+Kc expression:
+
+Kc = [CH₃CO₂CH₂CH₃][H₂O] / [CH₃CO₂H][CH₃CH₂OH]
+
+To confirm equilibrium was reached, make several mixtures, leave for different times, and check Kc values are the same.
+
+Colorimetry / Spectrophotometry
+Absorption of light is proportional to concentration
+Pale-coloured complexes: add a suitable ligand to intensify colour
+Spectrometer uses a coloured filter chosen to allow wavelengths most strongly absorbed by the solution
+Method
+Add an appropriate ligand to intensify colour
+Make up solutions of known concentration
+Zero the colorimeter using a cuvette with distilled water
+Measure absorption/transmission of each standard solution
+Plot absorption vs concentration calibration curve
+Measure absorption of unknown and determine concentration from the curve
+Detailed Method — Copper Solutions
+Pipette 20 cm³ of 2 M NH₃ into nine 100 cm³ graduated flasks
+Use 0.05 M CuSO₄ to make solutions 0.005 to 0.04 M [Cu(NH₃)₆]²⁺; mix thoroughly
+Insert red filter into colorimeter
+Zero with distilled water cuvette
+Measure absorbance of each solution
+Plot calibration curve; determine unknown concentration
+Autocatalytic Reaction: Ethanedioate and Manganate
+2MnO₄⁻(aq) + 6H⁺(aq) + 5(CO₂H)₂(aq) → 2Mn²⁺(aq) + 10CO₂(g) + 8H₂O(l)
+
+Method
+Prepare reaction mixture (e.g. 100 cm³ of 0.2 M ethanedioic acid + 10 cm³ of 1 M H₂SO₄ + water to volume)
+A second mixture includes 15 cm³ of 0.2 M MnSO₄ (added Mn²⁺ catalyst)
+Add 50 cm³ of 0.02 M KMnO₄; shake for ~30 seconds
+After ~1 minute, withdraw 10.0 cm³ portion into a conical flask; note the time
+Add ~10 cm³ of 0.1 M KI to quench (stops reaction; releases I₂ equivalent to remaining MnO₄⁻)
+Titrate liberated I₂ with 0.01 M Na₂S₂O₃ (starch indicator near end-point)
+Remove further portions every 3–4 minutes; continue until titre < 3 cm³
+Explanation of Autocatalysis
+Mn²⁺ is the autocatalyst — a product that catalyses the reaction.
+
+Catalysed route:
+
+Step 1: 4Mn²⁺ + MnO₄⁻ + 8H⁺ → 5Mn³⁺ + 4H₂O
+Step 2: 2Mn³⁺ + C₂O₄²⁻ → 2Mn²⁺ + 2CO₂
+Why:
+
+Initial uncatalysed reaction is slow — collision between two negative ions → high activation energy
+Mn²⁺ produced acts as autocatalyst → alternative route with lower activation energy → reaction speeds up
+Eventually slows as MnO₄⁻ concentration drops
+Rate profile:
+
+Mixture with only reactants: slow start → speeds up → slows down (S-shaped curve)
+Mixture with added Mn²⁺: fast from the start → slows down
+Alternative Monitoring Method
+Spectrophotometry (measuring purple colour intensity) — advantages: does not disrupt reaction mixture; quicker concentration determination.
