@@ -1,0 +1,341 @@
+Paper 2: Organic and Physical Chemistry (7405/2)
+Tuesday 18 June 2024 — 2 hours — 105 marks
+
+Question 1 — Kinetics of Propanone–Bromine Reaction
+CH₃COCH₃ + Br₂ + OH⁻ → CH₃COCH₂Br + Br⁻ + H₂O
+
+Rate = k[CH₃COCH₃][OH⁻]
+
+1.1 [1 mark]
+Sketch a graph showing how [Br₂] changes during this reaction.
+
+Mark Scheme:
+
+Curve with decreasing gradient (concentration decreasing over time)
+A straight line with negative gradient also allowed (if other reagents in large excess)
+1.2 [5 marks]
+Complete the table and calculate rate constant k with units.
+
+Expt	[CH₃COCH₃]	[Br₂]	[OH⁻]	Initial rate
+1	1.50 × 10⁻²	2.50 × 10⁻²	2.50 × 10⁻²	2.75 × 10⁻¹¹
+2	1.50 × 10⁻²	2.50 × 10⁻²	?	8.25 × 10⁻¹¹
+3	3.75 × 10⁻³	5.00 × 10⁻²	1.00 × 10⁻¹	?
+Mark Scheme:
+
+M1: [OH⁻] in Expt 2 = 7.50 × 10⁻²
+M2: Rate in Expt 3 = 2.75 × 10⁻¹¹
+M3: k = rate / ([CH₃COCH₃][OH⁻])
+M4: k = 2.75 × 10⁻¹¹ / (1.50 × 10⁻² × 2.50 × 10⁻²) = 7.33 × 10⁻⁸
+M5: Units = mol⁻¹ dm³ s⁻¹
+1.3 [4 marks]
+Complete the mechanism in Figure 1 by adding four curly arrows and any relevant lone pairs.
+
+Mark Scheme:
+
+M1: Arrow from C–H bond to C–C
+M2: Arrow from C=O bond to O
+M3: Arrow from lone pair on O to C–O bond
+M4: Arrow from Br–Br bond to Br
+1.4 [1 mark]
+Use evidence from the rate equation to explain why Step 1 is the rate-determining step.
+
+Mark Scheme:
+
+Step 1 includes CH₃COCH₃ and OH⁻ and these are also in the rate equation (Br₂ is not in step 1 and not in the rate equation)
+Question 2 — Equilibrium
+2P(aq) + Q(aq) ⇌ R(aq) + 3S(aq)
+
+Equilibrium amounts: P = 0.0145, Q = 0.0275, R = 0.0115, S = 0.0345 mol (total volume = 45.0 cm³)
+
+2.1 [2 marks]
+Calculate the initial amount of P and its concentration in the initial 25.0 cm³ sample.
+
+Mark Scheme:
+
+M1: mol P = 0.0145 + (2 × 0.0115) = 0.0375 mol
+M2: [P] = 0.0375 / 0.025 = 1.50 mol dm⁻³
+2.2 [4 marks]
+Give expression for Kc, calculate value and units.
+
+Mark Scheme:
+
+M1: Kc = [R][S]³ / ([P]²[Q])
+M2: Insert values (dividing moles by total volume 0.045 dm³)
+M3: Kc = 1.81 to 1.82
+M4: Units = mol dm⁻³
+2.3 [2 marks]
+Explain why the amount of S increases when water is added.
+
+Mark Scheme:
+
+M1: Equilibrium shifts to the side with more moles
+M2: To oppose the decrease in concentration of all reactants and products / dilution
+Question 3 — Hydrocarbons
+3.1 [2 marks]
+C₂₀H₄₂ cracked to C₈H₁₀ + C₆H₁₄ + ?. Complete equation and give a suitable catalyst.
+
+Mark Scheme:
+
+M1: + 3C₂H₆
+M2: Catalyst = Zeolite / aluminosilicate / aluminium oxide
+3.2 [1 mark]
+¹³C NMR spectrum of C₈H₁₀ shows the structure. Which is it? (A, B, C, or D)
+
+Mark Scheme:
+
+Option B (1,4-dimethylbenzene / para-xylene — 4 peaks in ¹³C NMR but only 2 unique C environments due to symmetry)
+3.3 [1 mark]
+Cracking at 1200 K and 7000 kPa without a catalyst. State the type of product formed in high percentage.
+
+Mark Scheme:
+
+Alkenes
+3.4 [4 marks]
+C₄H₁₀ + 6½O₂ → 4CO₂ + 5H₂O. 20 cm³ butane burned in 1350 cm³ air (21% O₂). Calculate total volume of gas at RTP.
+
+Mark Scheme:
+
+M1: Initial volume O₂ = 0.21 × 1350 = 283.5 cm³
+M2: Volume O₂ remaining = 283.5 − (6.5 × 20) = 153.5 cm³
+M3: Volume CO₂ = 4 × 20 = 80 cm³
+M4: Total = 153.5 + 80 + (0.79 × 1350) = 1300 cm³ (H₂O condenses at RTP)
+3.5 [2 marks]
+State an environmental problem caused by SO₂. Give formula of compound used to remove SO₂.
+
+Mark Scheme:
+
+M1: Acid rain (allow damages buildings/statues, death of aquatic organisms)
+M2: CaO or CaCO₃
+Question 4 — Ester Preparation
+4.1 [2 marks]
+Ester F prepared from propan-2-ol and ethanoic acid. Give equation and name.
+
+Mark Scheme:
+
+Equation: CH₃CH(OH)CH₃ + CH₃COOH ⇌ CH₃COOCH(CH₃)₂ + H₂O
+Name: 1-methylethyl ethanoate (allow isopropyl ethanoate)
+4.2 [6 marks] — Levels of Response
+Describe how Step 1 (reflux) should be done, including equipment for adding reagents, labelled diagram, and safety precautions.
+
+Mark Scheme (Indicative Content):
+
+Stage 1 — Equipment:
+
+1a: Measuring cylinder(s) for propan-2-ol and ethanoic acid
+1b: Dropping/teat pipette for sulfuric acid
+Stage 2 — Diagram:
+
+2a: Labelled condenser shown vertical and open at top and bottom
+2b: Water in at bottom, water out at top
+2c: Labelled round-bottomed or pear-shaped flask
+Stage 3 — Safety:
+
+3a: Use a fume cupboard AND avoid breathing harmful compounds
+3b: Wear gloves AND compounds are corrosive
+3c: Add anti-bumping granules AND ensure smooth boiling
+3d: Use electric heater/water bath AND compounds are flammable
+4.3 [3 marks]
+In Step 2, reaction mixture shaken with aqueous Na₂CO₃. State purpose, a precaution, and reason.
+
+Mark Scheme:
+
+M1: Purpose — To neutralise/remove/react with excess acid
+M2: Precaution — Remove stopper/bung OR tip funnel and open tap
+M3: Reason — Build-up of pressure/gas/CO₂
+4.4 [1 mark]
+Give reason for using anhydrous MgSO₄ in Step 3.
+
+Mark Scheme:
+
+Drying agent / to remove water
+4.5 [1 mark]
+Suggest how purity of ester can be confirmed during distillation.
+
+Mark Scheme:
+
+Compare boiling point to a data book/known value (boils at sharp boiling point / narrow range)
+Question 5 — Test-Tube Reactions
+5.1 [2 marks]
+Distinguish propanoyl chloride and 1-chloropropane using AgNO₃ solution.
+
+Mark Scheme:
+
+Propanoyl chloride: Misty/white/steamy fumes (or immediate white precipitate)
+1-chloropropane: No visible change (or slow white precipitate)
+5.2 [3 marks]
+Three unlabelled bottles: propan-1-ol, propanal, propanone. Test with Fehling's; identify which reacts and give observation. Suggest a test for the remaining two.
+
+Mark Scheme:
+
+M1: Propanal reacts with Fehling's — blue solution → brick-red precipitate
+M2: Further test — warm with acidified K₂Cr₂O₇ (or add Na₂CO₃, or add conc H₂SO₄)
+M3: Propan-1-ol reacts — orange goes green (or effervescence with Na₂CO₃ etc.)
+Question 6 — Isomers C₅H₁₀O₂
+6.1 [1 mark]
+Give equation for C₄H₉COOH with NaHCO₃.
+
+Mark Scheme:
+
+C₄H₉COOH + NaHCO₃ → C₄H₉COONa + CO₂ + H₂O
+6.2 [1 mark]
+Isomer V has an asymmetric carbon atom. Deduce structure.
+
+Mark Scheme:
+
+CH₃CH₂CH(CH₃)COOH (2-methylbutanoic acid)
+6.3 [2 marks]
+Isomer W has four peaks in ¹H NMR. Deduce structure and integration ratio.
+
+Mark Scheme:
+
+M1: (CH₃)₂CHCH₂COOH (3-methylbutanoic acid)
+M2: Integration ratio = 6:1:2:1
+6.4 [2 marks]
+Isomer X has three singlets with ratio 1:3:6 in ¹H NMR. Deduce structure and explain why singlets.
+
+Mark Scheme:
+
+M1: (CH₃)₂C(OH)COCH₃ (or CH₃OC(CH₃)₂CHO)
+M2: Adjacent C has no non-equivalent H attached (so no spin–spin coupling)
+6.5 [6 marks]
+Isomer Y: peak at δ 3.65 (ratio 2, singlet) and δ 1.19 (ratio 3, singlet). Draw partial structures from each peak. Deduce structure of Y and number of ¹³C NMR peaks.
+
+Mark Scheme:
+
+M1–M2: Peak at 3.65 → OCH₂ environment (2H singlet)
+M3–M4: Peak at 1.19 → CH₃ attached to no adjacent H (3H singlet)
+M5: Structure of Y — methyl 2-methylpropanoate (CH₃)₂CHCOOCH₃ or equivalent symmetric ester
+M6: ¹³C peaks = 3 (ECF from their structure)
+Question 7 — Molecular Formula [4 marks]
+Compound L (Mr = 88.0), contains C, H and O only. 6.56 × 10⁻⁴ mol burns to give 2.62 × 10⁻³ mol H₂O and 2.62 × 10⁻³ mol CO₂. Deduce formula.
+
+Mark Scheme:
+
+M1: Ratio CO₂:L = 2.62 × 10⁻³ / 6.56 × 10⁻⁴ = 4 → 4C per molecule
+M2: 4CO₂ + 4H₂O → 4C and 8H per molecule
+M3: Mr remaining for O = 88 − (4×12) − (8×1) = 32 → 2O
+M4: Formula = C₄H₈O₂
+Question 8 — Organic Synthesis
+(Diagram shows: alkene → compound with Br → compound J → nitrile → compound with OH and CN)
+
+8.1 [2 marks]
+Name the mechanism in Step 1. State the reagent(s).
+
+Mark Scheme:
+
+Mechanism: Electrophilic addition
+Reagent: HBr
+8.2 [2 marks]
+Identify compound J. State reagent(s) and conditions for Step 2.
+
+Mark Scheme:
+
+Compound J: Butan-2-ol (or CH₃CH(OH)CH₂CH₃)
+Reagent: NaOH AND warm aqueous
+8.3 [5 marks]
+State reagent(s) for Step 4. Outline the mechanism.
+
+Mark Scheme:
+
+M1: Reagent — HCN (or KCN/H₂SO₄)
+M2: Arrow from lone pair on C (of CN⁻) to C of C=O
+M3: Arrow from C=O to O
+M4: Intermediate with negative charge on O
+M5: Arrow from lone pair on O⁻ to H⁺
+8.4 [3 marks]
+Explain why Step 4 produces a racemic mixture.
+
+Mark Scheme:
+
+M1: Planar carbonyl group / planar C=O
+M2: Equal chance (50/50) of attack from above/below
+M3: Giving equal amounts of both enantiomers/optical isomers
+Question 9 — Amines
+9.1 [2 marks]
+Complete the equation for Step 1 of bromoethane reacting with amine. Name the secondary amine formed in Step 2.
+
+Mark Scheme:
+
+M1: Missing product = CH₃NH₂ (displayed or structural)
+M2: N-methylethylamine (or N-methylethanamine)
+9.2 [2 marks]
+CH₃CHBrCH₂CH₃ reacts with NH₃. Draw skeletal formula of major product with (a) excess NH₃, (b) excess halogenoalkane.
+
+Mark Scheme:
+
+Excess NH₃: Primary amine (butan-2-amine skeletal formula)
+Excess halogenoalkane: Tertiary amine / quaternary ammonium salt (skeletal formula)
+9.3 [3 marks]
+Complete Figure 3: mechanism for Step 1 and displayed formula of amine G.
+
+Mark Scheme:
+
+M1: Correct structure of 2-bromopropane drawn
+M2: Two correct curly arrows (nucleophilic substitution mechanism)
+M3: Fully displayed structure of amine G
+9.4 [2 marks]
+Explain why amine P is a stronger base than amine Q.
+
+Mark Scheme:
+
+M1: The lone pair on N in P is more available / more able to accept protons
+M2: More alkyl groups are electron releasing/donating / greater positive inductive effect
+Question 10 — Benzene and Arenes
+10.1 [5 marks]
+Compare benzene and cyclohexa-1,3,5-triene in terms of stability, shape, and C–C bond lengths. Use enthalpy of hydrogenation data.
+
+Mark Scheme:
+
+M1: Benzene is more stable than cyclohexatriene
+M2: Enthalpy of hydrogenation of benzene is 152 kJ mol⁻¹ less exothermic
+M3: Due to delocalisation of electrons in benzene
+M4: Both are planar/hexagonal
+M5: Benzene has equal C–C bond lengths / regular hexagon; cyclohexatriene has bonds of different/varied lengths / distorted hexagon
+10.2 [2 marks]
+Give the two reagents for Step 1 (nitration). Give equation for formation of the reactive intermediate.
+
+Mark Scheme:
+
+Reagents: Concentrated HNO₃ and concentrated H₂SO₄
+Equation: HNO₃ + 2H₂SO₄ → NO₂⁺ + H₃O⁺ + 2HSO₄⁻
+10.3 [3 marks]
+Outline mechanism for Step 1 (electrophilic aromatic substitution).
+
+Mark Scheme:
+
+M1: Arrow from inside hexagon to N (of NO₂⁺); positive on N
+M2: Wheland intermediate with horseshoe and positive charge
+M3: Arrow from C–H bond back into ring
+10.4 [1 mark]
+State reagent(s) for Step 2 (reduction of nitro group to amine).
+
+Mark Scheme:
+
+Sn/HCl (allow H₂ with Pt/Ni, or HCl with Fe)
+10.5 [1 mark]
+State a possible use for the amine.
+
+Mark Scheme:
+
+Manufacture of dyes / cationic surfactants / fabric softener
+Question 11 — Enthalpy of Combustion
+11.1 [4 marks]
+1.31 g limonene (C₁₀H₁₆) burned, heating 60.0 g water by 52.1°C (c = 4.18 J K⁻¹ g⁻¹). Calculate ΔcH.
+
+Mark Scheme:
+
+M1: Q = 60 × 4.18 × 52.1 = 13 066.7 J
+M2: Moles = 1.31/136 = 0.00963 mol
+M3: Q/n = 13 066.7 / 0.00963 = 1 356 541 J mol⁻¹
+M4: ΔcH = −1360 kJ mol⁻¹ (allow −1355 to −1362)
+11.2 [5 marks]
+Table shows values for ΔcH of a hydrocarbon: Method 1 (standard) = −4194, Method 2 (calorimetry) = −1100, Method 3 (mean bond enthalpies) = −3159. Suggest reasons for differences.
+
+Mark Scheme (any 5):
+
+M1: Value from calorimetry is less exothermic than Method 1
+M2: Calorimetry — heat/energy loss to surroundings (or copper absorbs heat)
+M3: Calorimetry — incomplete combustion
+M4: Calorimetry — some liquid could have evaporated
+M5: Mean bond enthalpies are averages taken across a range of compounds
+M6: Bond enthalpy method ignores energy changes in vaporisation / does not include changes of state / uses gaseous states
