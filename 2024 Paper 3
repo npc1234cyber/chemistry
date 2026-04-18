@@ -1,0 +1,259 @@
+Paper 3 (7405/3)
+Friday 21 June 2024 — 2 hours — 90 marks (Section A: 60, Section B: 30)
+
+Section A
+Question 1 — Aspirin Synthesis
+1.1 [2 marks]
+Give the equation for 2-hydroxybenzenecarboxylic acid + methanol. Include skeletal formula of the organic product.
+
+Mark Scheme:
+
+M1: Correct equation showing esterification (methyl ester formed + H₂O)
+M2: Correct skeletal formula of the methyl ester product
+1.2 [1 mark]
+Why is ethanoic anhydride preferred to ethanoyl chloride?
+
+Mark Scheme:
+
+Cheaper / safer / less corrosive / less vulnerable to hydrolysis / less toxic fumes produced
+1.3 [1 mark]
+Name the mechanism for the reaction with ethanoic anhydride.
+
+Mark Scheme:
+
+Nucleophilic addition–elimination (allow acylation)
+1.4 [1 mark]
+Suggest the role of concentrated phosphoric acid.
+
+Mark Scheme:
+
+Catalyst
+1.5 [1 mark]
+Suggest why reflux is not essential when heated to 85°C for 10 minutes.
+
+Mark Scheme:
+
+Reactants/products have boiling points above 85°C (so won't evaporate significantly) OR short heating time
+1.6 [2 marks]
+Complete and label the diagram to show how the impure solid is filtered.
+
+Mark Scheme:
+
+M1: Filter paper shown in correct position
+M2: Buchner funnel/flask labelled (or gravity filtration with filter funnel labelled)
+1.7 [2 marks]
+Suggest the identity of two impurities in the filtered solid before washing.
+
+Mark Scheme:
+
+Impurity 1: Ethanoic acid / ethanoic anhydride (unreacted reagent)
+Impurity 2: 2-hydroxybenzenecarboxylic acid (unreacted starting material) OR phosphoric acid
+1.8 [6 marks]
+Describe the recrystallisation process to purify aspirin, including method and apparatus.
+
+Mark Scheme (Indicative Content):
+
+Dissolve impure aspirin in minimum volume of hot solvent (50:50 water:ethanol)
+Heat until all solid dissolves
+Hot filter through fluted filter paper to remove insoluble impurities
+Cool the filtrate slowly — crystals form
+Cool further in ice bath to increase yield
+Filter under reduced pressure (Buchner funnel/flask)
+Wash crystals with cold solvent/distilled water
+Dry between absorbent/filter paper
+1.9 [3 marks]
+State the physical property measured to check purity. Describe two ways the result would show impurity.
+
+Mark Scheme:
+
+Physical property: Melting point
+1: Melting point is lower than expected/data book value
+2: Melts over a range (not sharp)
+Question 2 — Rate of Reaction (CaCO₃ + HCl)
+2.1 [2 marks]
+Why use a loose cotton wool plug instead of leaving flask open or inserting a bung?
+
+Mark Scheme:
+
+Instead of open: Prevents loss of liquid/spray/splashing (while allowing gas to escape)
+Instead of bung: Allows gas/CO₂ to escape (pressure would build up / bung would pop out)
+2.2 [1 mark]
+Why does large excess CaCO₃ mean rate is only affected by [HCl]?
+
+Mark Scheme:
+
+The surface area/amount of CaCO₃ stays effectively constant throughout the reaction
+2.3 [2 marks]
+Explain why (m_total − m_t) is proportional to [HCl] remaining at time t.
+
+Mark Scheme:
+
+M1: m_t is proportional to the amount of HCl that has reacted (by time t)
+M2: (m_total − m_t) is proportional to the amount of HCl remaining, which is proportional to its concentration (since volume is constant)
+2.4 [3 marks]
+Plot rate vs (m_total − m_t) on the grid from Table 1 data.
+
+Rate / g s⁻¹	23.0 × 10⁻⁴	19.0 × 10⁻⁴	15.7 × 10⁻⁴	11.5 × 10⁻⁴	6.67 × 10⁻⁴
+(m_total − m_t) / g	0.340	0.280	0.225	0.170	0.100
+Mark Scheme:
+
+M1: Appropriate scales on axes
+M2: Correctly plotted points
+M3: Line of best fit
+2.5 [1 mark]
+State how the graph confirms Rate = k[HCl].
+
+Mark Scheme:
+
+Straight line through the origin (proportional relationship = first order)
+2.6 [2 marks]
+Suggest two other variables that can be measured instead of mass loss.
+
+Mark Scheme:
+
+1: Volume of gas (produced)
+2: pH (or conductivity / concentration of Ca²⁺ by titration)
+Question 3 — Arrhenius Equation
+Thermal decomposition of but-3-en-1-ol: CH₂=CHCH₂CH₂OH → CH₂=CHCH₃ + HCHO
+
+T / K	1/T / K⁻¹	k / s⁻¹	ln k
+553	1.81 × 10⁻³	4.6 × 10⁻⁴	−7.68
+563	1.78 × 10⁻³	8.4 × 10⁻⁴	−7.08
+573	?	15.6 × 10⁻⁴	?
+583	1.72 × 10⁻³	28.0 × 10⁻⁴	−5.88
+593	1.69 × 10⁻³	49.9 × 10⁻⁴	−5.30
+3.1 [1 mark]
+Complete the missing values at 573 K.
+
+Mark Scheme:
+
+1/T = 1.75 × 10⁻³ K⁻¹
+ln k = −6.46
+3.2 [2 marks]
+The overall order can be deduced from a column heading. Identify it and deduce the order.
+
+Mark Scheme:
+
+Piece of information: Units of k are s⁻¹
+Overall order: First order (units s⁻¹ → first order)
+3.3 [2 marks]
+Plot ln k against 1/T on the grid.
+
+Mark Scheme:
+
+M1: Correctly plotted points
+M2: Best-fit straight line
+3.4 [3 marks]
+Use the graph to calculate Ea in kJ mol⁻¹. (R = 8.31 J K⁻¹ mol⁻¹)
+
+Mark Scheme:
+
+M1: Gradient = Δ(ln k) / Δ(1/T) (read from graph, choose points far apart)
+M2: Ea = −gradient × R
+M3: Ea ≈ 165 to 175 kJ mol⁻¹ (depending on line of best fit)
+3.5 [2 marks]
+2-Methylpent-4-en-2-ol decomposes similarly. Deduce the alkene and carbonyl compound.
+
+CH₂=CHCH₂C(CH₃)₂OH → ? + ?
+
+Mark Scheme:
+
+Alkene: CH₂=CHCH₃ (propene)
+Carbonyl compound: CH₃COCH₃ (propanone)
+Question 4 — pH Curves and Buffers
+0.100 mol dm⁻³ NaOH added to 25.0 cm³ of 0.0800 mol dm⁻³ propanoic acid at 298 K.
+
+4.1 [1 mark]
+State meaning of "weak" in this context.
+
+Mark Scheme:
+
+Partially/incompletely dissociated/ionised (in aqueous solution)
+4.2 [1 mark]
+Why add NaOH dropwise around the equivalence point?
+
+Mark Scheme:
+
+Small additions cause a large change in pH (so need to add slowly to determine the equivalence point accurately)
+4.3 [3 marks]
+Give expression for Ka. Show that pH = pKa at half-neutralisation.
+
+Mark Scheme:
+
+Ka = [CH₃CH₂COO⁻][H⁺] / [CH₃CH₂COOH]
+At half-neutralisation: [CH₃CH₂COOH] = [CH₃CH₂COO⁻]
+Therefore Ka = [H⁺], so pKa = pH
+4.4 [2 marks]
+Use pH from Figure 4 at half-neutralisation to calculate Ka.
+
+Mark Scheme:
+
+Read pH at half-neutralisation volume from graph (≈ 4.87)
+Ka = 10⁻ᵖᴴ ≈ 1.35 × 10⁻⁵ mol dm⁻³ (accept value consistent with graph reading)
+4.5 [2 marks]
+Explain why pH stays approximately constant between 5 cm³ and 15 cm³ added (buffer region).
+
+Mark Scheme:
+
+M1: A buffer solution is formed containing propanoic acid (weak acid) and sodium propanoate (its conjugate base/salt)
+M2: Added OH⁻ reacts with the acid; added H⁺ would react with the conjugate base — so pH stays approximately constant
+4.6 [2 marks]
+Why are methyl orange and universal indicator not suitable for this titration?
+
+Mark Scheme:
+
+Methyl orange: Its colour change range (pH 3.1–4.4) is below the equivalence point pH (which is > 7 for weak acid–strong base)
+Universal indicator: It is a mixture of indicators / gives a gradual colour change — cannot identify a sharp end point
+Question 5 — Transition Metal Complexes and Colorimetry
+5.1 [6 marks]
+Explain why some complexes are coloured, list factors affecting colour, and describe how colorimetry determines concentration.
+
+Mark Scheme (Indicative Content):
+
+d orbitals split into two sets of different energies (in the presence of ligands)
+Light is absorbed to promote an electron from a lower d orbital to a higher d orbital
+The colour observed is the complementary colour to the wavelength absorbed
+Factors affecting colour: type of ligand / coordination number / oxidation state of the metal ion
+Colorimetry: make solutions of known concentration → measure absorbance → plot calibration curve (absorbance vs concentration) → measure absorbance of unknown → read concentration from graph
+Zero the colorimeter with distilled water / appropriate solvent
+Use an appropriate filter (complementary colour)
+5.2 [3 marks]
+Use peak wavelength from visible spectrum of [Cu(H₂O)₆]²⁺ to calculate the change in energy of an electron. (h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹)
+
+Mark Scheme:
+
+M1: Read wavelength from graph (≈ 800 nm = 800 × 10⁻⁹ m)
+M2: E = hc/λ = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) / (800 × 10⁻⁹)
+M3: E ≈ 2.49 × 10⁻¹⁹ J (accept value consistent with graph reading)
+Section B — Multiple Choice
+Q	Answer
+6	D — CH₄ and NH₂⁻ (different numbers of electrons)
+7	A — Li (highest 3rd IE — removing from 1s)
+8	A — 15% (0.50 × 0.30 = 0.15)
+9	B — (NH₄)₂C₂O₄
+10	Answer showing dative covalent bond formation (from lone pair)
+11	C — Cyclohexane (all bond angles ~109.5°, not 120°)
+12	D — SiCl₄ (tetrahedral, symmetrical, no permanent dipole)
+13	A — CH₃CH₂COOH (2 H-bonds per molecule: C=O and O–H)
+14	C — Total number of molecules in the reaction mixture
+15	A — 0.4 cm³ s⁻¹
+16	C — Proportion of successful collisions increases because of decrease in Ea
+17	C — +1.69 V (EMF = E°(positive) − E°(negative); 2.15 = x − (−0.46); x = +1.69)
+18	A — [OH⁻] at 18°C = 8.00 × 10⁻⁸ mol dm⁻³
+19	D — Chlorine has the highest first ionisation energy
+20	A — Boiling point of HX increases (down group)
+21	C — They form a cobalt(II) complex with a tetrahedral shape
+22	D — Al(H₂O)₃(OH)₃ and CO₂
+23	C — CH₃CHClCH=C(CH₃)COOH
+24	D — CH₃CH₂CHO → CH₃CH₂CH(OH)CN (nucleophilic addition of CN⁻)
+25	B — Butyl ethanoate (position isomer of 2-methylpropyl ethanoate)
+26	D — 3-methylpent-2-ene
+27	A — 2-hydroxy-2,3-dimethylbutanenitrile
+28	C — Nylon-6,6 can be hydrolysed by aqueous NaOH
+29	D — Increase in pressure increases equilibrium yield of ethanol
+30	D — C₆H₅COOH (benzoic acid)
+31	A — Polyalkene (most difficult to hydrolyse — no hydrolysable bonds)
+32	B — Polyamide (N–H···O=C hydrogen bonds between chains)
+33	Correct zwitterion structure (NH₃⁺ and COO⁻)
+34	Most abundant peak = tallest peak on chromatogram (identify isomer)
+35	Phenylalanine at pH 3 — NH₃⁺ and COOH (fully protonated cation form)
