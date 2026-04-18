@@ -1,0 +1,415 @@
+AQA A-Level Chemistry — June 2024 Papers & Mark Schemes
+Paper 1: Inorganic and Physical Chemistry (7405/1)
+Monday 10 June 2024 — 2 hours — 105 marks
+
+Question 1 — Atomic Structure
+1.1 [3 marks]
+Figure 1 represents an atom using Thomson's model (positively charged sphere with electrons embedded).
+
+Suggest the identity of this atom. Give two differences between the modern model and the Thomson model.
+
+Mark Scheme:
+
+Identity: B / Boron
+Any 2 from:
+Protons in the centre of the atom/nucleus
+Electrons are in shells/energy levels (around the nucleus)
+Neutrons in the centre of the atom/nucleus
+Most of the atom is empty space / most of mass in nucleus
+1.2 [3 marks]
+Tellurium has a relative atomic mass of 127.6. Iodine has a relative atomic mass of 126.9.
+
+Define relative atomic mass. Suggest one property of tellurium that justifies its position before iodine in the modern Periodic Table.
+
+Mark Scheme:
+
+Definition: The average/mean mass of 1 atom (of an element) relative to 1/12 the mass of one atom of ¹²C
+Justification: Tellurium has Z = 52 but iodine has Z = 53 (Te has one fewer proton than I) OR Te has 6 outer shell electrons but I has 7 OR Te has similar chemistry to other Group 6 elements
+1.3 [1 mark]
+A sample of tellurium is analysed in a TOF mass spectrometer using electron impact ionisation. Give an equation, including state symbols, for this ionisation.
+
+Mark Scheme:
+
+Te(g) + e⁻ → Te⁺(g) + 2e⁻
+OR Te(g) → Te⁺(g) + e⁻
+1.4 [5 marks]
+In the TOF mass spectrometer an ion of an isotope of tellurium, with mass number y, travels along a 1.25 m flight tube with KE = 1.88 × 10⁻¹² J. The ion takes 3.00 × 10⁻⁷ s to reach the detector.
+
+KE = ½mv². L = 6.022 × 10²³ mol⁻¹.
+
+Calculate the mass, in g, of 1 mole of these tellurium ions. Use your answer to suggest mass number y.
+
+Mark Scheme:
+
+M1: v = d/t = 1.25 / (3.00 × 10⁻⁷) = 4.17 × 10⁶ m s⁻¹
+M2: m = 2KE/v² or m = 2KE·t²/d²
+M3: m = 2.16 × 10⁻²⁵ to 2.17 × 10⁻²⁵ kg
+M4: Mass of 1 mole = L × 1000 × M3 = 130.4 g (allow 130–131)
+M5: y = 130 or 131 (must be an integer)
+1.5 [1 mark]
+Two isotopes are ¹²⁶Te and ¹²⁴Te. Which statement about KE is correct?
+
+Mark Scheme:
+
+The KE of ¹²⁶Te⁺ is the same as the KE of ¹²⁴Te⁺ ✓
+Question 2 — Solubility of Strontium Hydroxide
+2.1 [1 mark]
+Suggest why the solution is kept until no more solid needs to be added.
+
+Mark Scheme:
+
+(To ensure that) the solution is saturated / as much as possible dissolves
+2.2 [1 mark]
+Suggest why it is important to remove the undissolved strontium hydroxide before the titration.
+
+Mark Scheme:
+
+Otherwise the titre would be larger / would need a larger volume of acid / because undissolved Sr(OH)₂ will react with the acid
+2.3 [1 mark]
+After filtration, the solution is stored in a stoppered flask. Suggest a reason for stoppering.
+
+Mark Scheme:
+
+To prevent reaction with CO₂ in the air OR to prevent evaporation of water
+2.4 [1 mark]
+Which diagram identifies the pipette that is correctly filled?
+
+Mark Scheme:
+
+Answer C (bottom of meniscus on the line)
+2.5 [6 marks]
+Table 1 shows titration results. Give the equation for Sr(OH)₂ + HCl. Calculate mean titre and solubility of Sr(OH)₂ in g per 100 cm³.
+
+Titration	Rough	1	2	3
+Final reading (cm³)	34.40	38.00	41.05	37.00
+Initial reading (cm³)	0.00	5.55	8.05	4.60
+Titre (cm³)	34.40	32.45	33.00	32.40
+Mark Scheme:
+
+M1: Sr(OH)₂ + 2HCl → SrCl₂ + 2H₂O
+M2: Mean titre = 32.43 cm³ (allow 32.425)
+M3: n HCl = 0.1 × 32.43/1000 = 3.243 × 10⁻³ mol
+M4: n Sr(OH)₂ in 25 cm³ = 3.243 × 10⁻³ / 2 = 1.62 × 10⁻³ mol
+M5: n Sr(OH)₂ in 100 cm³ = 1.62 × 10⁻³ × 4 = 6.48 × 10⁻³ mol
+M6: Mass = 6.48 × 10⁻³ × 121.6 = 0.788 g per 100 cm³
+Question 3 — Aqueous Iron Ions
+3.1 [2 marks]
+Draw the structure of complex ion X formed when [Fe(H₂O)₆]³⁺ reacts with ethanedioate ions (only ligands are ethanedioate). Include the charge.
+
+Mark Scheme:
+
+M1: Correct structure showing Fe with three bidentate ethanedioate (oxalate) ligands
+M2: Charge of 3−
+3.2 [2 marks]
+Explain the meaning of the chelate effect.
+
+Mark Scheme:
+
+M1: When bidentate/multidentate ligands replace monodentate ligands (to form a more stable complex)
+M2: Because there is an increase in entropy / positive entropy change / more particles formed (so ΔG is negative)
+3.3 [6 marks] — Levels of Response
+Outline how Fe²⁺ ions catalyse the reaction between S₂O₈²⁻ ions and I⁻ ions. Include a sketch graph, explanation with equations, and an overall equation.
+
+Mark Scheme (Indicative Content):
+
+Stage 1 — Graph:
+
+1a: Labelled axes, concentration of S₂O₈²⁻ decreasing with time
+1b: Downwards curve of reducing steepness
+Stage 2 — Explanation:
+
+2a: Reaction slow because S₂O₈²⁻ and I⁻ repel / high Ea (two negative ions)
+2b: Fe²⁺ attracts the S₂O₈²⁻ so lower Ea (oppositely charged)
+2c: Iron has a variable oxidation state / Fe²⁺ oxidised to Fe³⁺
+Stage 3 — Equations:
+
+3a: 2Fe²⁺ + S₂O₈²⁻ → 2SO₄²⁻ + 2Fe³⁺
+3b: 2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂
+3c: Overall: S₂O₈²⁻ + 2I⁻ → 2SO₄²⁻ + I₂
+3.4 [1 mark]
+A student adds dilute ammonia solution to [Fe(H₂O)₆]²⁺. Give the formula of the precipitate.
+
+Mark Scheme:
+
+[Fe(H₂O)₄(OH)₂]
+3.5 [2 marks]
+Student adds Na₂CO₃ to [Fe(H₂O)₆]²⁺. State one observation and give an equation.
+
+Mark Scheme:
+
+Observation: Green precipitate
+Equation: [Fe(H₂O)₆]²⁺ + CO₃²⁻ → FeCO₃ + 6H₂O
+3.6 [1 mark]
+[Fe(H₂O)₆]²⁺ solution turns yellow-brown after hours in air. Give equation for reaction of this solution with Na₂CO₃.
+
+Mark Scheme:
+
+2[Fe(H₂O)₆]³⁺ + 3CO₃²⁻ → 2[Fe(H₂O)₃(OH)₃] + 3CO₂ + 3H₂O
+Question 4 — Gas Equilibria
+4.1 [2 marks]
+H₂O(g) + CO(g) ⇌ H₂(g) + CO₂(g) ΔH = −41 kJ mol⁻¹
+
+2.00 mol H₂O and 2.00 mol CO reach equilibrium at constant T in 20 dm³. At equilibrium, 0.92 mol H₂. Calculate mole fraction of H₂.
+
+Mark Scheme:
+
+Total moles at equilibrium = 4.00 mol
+Mole fraction of H₂ = 0.23
+4.2 [1 mark]
+State why Kp has no units for this reaction.
+
+Mark Scheme:
+
+The amount in moles of products is the same as reactants (so the units of partial pressure cancel out)
+4.3 [1 mark]
+Temperature is increased. How does the amount of H₂ change?
+
+Mark Scheme:
+
+The amount decreases ✓ (forward reaction is exothermic)
+4.4 [4 marks]
+C₂H₄(g) + H₂O(g) ⇌ CH₃CH₂OH(g) ΔH = −45 kJ mol⁻¹
+
+Mole fractions at 6000 kPa: ethene 0.645, steam 0.323, ethanol 0.0321. Give Kp expression, calculate value and units.
+
+Mark Scheme:
+
+M1: Kp = p(CH₃CH₂OH) / [p(C₂H₄) × p(H₂O)]
+M2: = (0.0321 × 6000) / [(0.645 × 6000) × (0.323 × 6000)] = 192.6 / (3870 × 1938)
+M3: Kp = 2.56 × 10⁻⁵ (allow 2.57 × 10⁻⁵)
+M4: Units = kPa⁻¹
+4.5 [1 mark]
+Effect of increase in volume on Kp at constant temperature?
+
+Mark Scheme:
+
+No effect
+Question 5 — Chlorine
+5.1 [1 mark]
+Give an equation to show how chlorine forms an acidic solution in water.
+
+Mark Scheme:
+
+Cl₂ + H₂O ⇌ HCl + HOCl
+5.2 [1 mark]
+Give equation for reaction of Cl₂ with cold, dilute NaOH.
+
+Mark Scheme:
+
+Cl₂ + 2NaOH → NaCl + NaOCl + H₂O
+5.3 [3 marks]
+In acidic conditions, ClO₃⁻ ions oxidise Cl⁻ to Cl₂. Deduce half-equations and overall equation.
+
+Mark Scheme:
+
+Oxidation: 2Cl⁻ → Cl₂ + 2e⁻
+Reduction: 2ClO₃⁻ + 12H⁺ + 10e⁻ → Cl₂ + 6H₂O
+Overall: ClO₃⁻ + 6H⁺ + 5Cl⁻ → 3Cl₂ + 3H₂O
+5.4 [2 marks]
+Give equation for reaction of solid NaCl with concentrated H₂SO₄. State the role of Cl⁻.
+
+Mark Scheme:
+
+NaCl + H₂SO₄ → HCl + NaHSO₄ (or 2NaCl + H₂SO₄ → 2HCl + Na₂SO₄)
+Role: Base / proton acceptor
+5.5 [1 mark]
+Draw the shape of the Cl₃⁻ ion. Include lone pairs that influence the shape.
+
+Mark Scheme:
+
+Linear shape with lone pairs shown on central Cl
+5.6 [2 marks]
+State and explain the bond angle in TlCl₂⁺.
+
+Mark Scheme:
+
+Bond angle: 180°
+Explanation: 2 bond pairs repel to be as far apart as possible
+Question 6 — Vanadium Ions / Electrode Potentials
+Table 3 — Standard Electrode Potentials:
+
+Half-equation	E° / V
+O₂ + 4H⁺ + 4e⁻ → 2H₂O	+1.23
+VO₂⁺ + 2H⁺ + e⁻ → VO²⁺ + H₂O	+1.00
+VO²⁺ + 2H⁺ + e⁻ → V³⁺ + H₂O	+0.34
+V³⁺ + e⁻ → V²⁺	−0.26
+Fe²⁺ + 2e⁻ → Fe	−0.44
+Zn²⁺ + 2e⁻ → Zn	−0.76
+V²⁺ + 2e⁻ → V	−1.20
+Mg²⁺ + 2e⁻ → Mg	−2.38
+6.1 [2 marks]
+Use Table 3 to explain why Zn reduces VO₂⁺ to V²⁺ but does not reduce further.
+
+Mark Scheme:
+
+M1: E° V³⁺/V²⁺ (−0.26 V) > E° Zn²⁺/Zn (−0.76 V) — OR EMF = +0.50 V (feasible)
+M2: E° V²⁺/V (−1.20 V) < E° Zn²⁺/Zn (−0.76 V) — OR EMF = −0.44 V (not feasible)
+6.2 [1 mark]
+Identify the species that can reduce VO₂⁺ to V.
+
+Mark Scheme:
+
+Mg
+6.3 [3 marks]
+Two half-cells Fe²⁺/Fe and VO²⁺/V³⁺ are connected. Calculate EMF, give cell representation, and give the half-equation at the negative electrode.
+
+Mark Scheme:
+
+EMF = +0.34 − (−0.44) = (+)0.78 V
+Cell representation: Fe(s) | Fe²⁺(aq) ‖ VO²⁺(aq), H⁺(aq), V³⁺(aq) | Pt(s)
+Half-equation at negative electrode: Fe(s) → Fe²⁺(aq) + 2e⁻
+6.4 [4 marks]
+0.151 g impure NH₄VO₃ dissolved in H₂SO₄ → VO₂⁺ ions → reduced to V²⁺ by excess Zn → titrated with 0.0200 mol dm⁻³ KMnO₄. 29.43 cm³ needed. Calculate percentage purity.
+
+3MnO₄⁻ + 5V²⁺ + 4H⁺ → 2H₂O + 3Mn²⁺ + 5VO₂⁺
+
+Mark Scheme:
+
+M1: n MnO₄⁻ = 29.43 × 10⁻³ × 0.0200 = 5.89 × 10⁻⁴ mol
+M2: n V²⁺ = 5.89 × 10⁻⁴ × 5/3 = 9.81 × 10⁻⁴ mol
+M3: Mass NH₄VO₃ = 9.81 × 10⁻⁴ × 116.9 = 0.1147 g
+M4: % purity = (0.1147/0.151) × 100 = 76.0%
+Question 7 — pH Calculations
+At 40°C, Kw = 2.92 × 10⁻¹⁴ mol² dm⁻⁶
+
+7.1 [3 marks]
+Give the expression for Kw. Calculate pH of pure water at 40°C.
+
+Mark Scheme:
+
+M1: Kw = [H⁺][OH⁻]
+M2: [H⁺] = √(2.92 × 10⁻¹⁴)
+M3: pH = 6.77
+7.2 [5 marks]
+35.0 cm³ of 0.150 mol dm⁻³ NaOH mixed with 20.0 cm³ of 0.100 mol dm⁻³ HCl at 40°C. Calculate pH.
+
+Mark Scheme:
+
+M1: n OH⁻ = 5.25 × 10⁻³ mol; n H⁺ = 2.00 × 10⁻³ mol
+M2: Excess OH⁻ = 3.25 × 10⁻³ mol
+M3: [OH⁻] = 3.25 × 10⁻³ / 55.0 × 10⁻³ = 0.0591 mol dm⁻³
+M4: [H⁺] = (2.92 × 10⁻¹⁴) / 0.0591 = 4.94 × 10⁻¹³ mol dm⁻³
+M5: pH = 12.31
+Question 8 — Enthalpy Changes
+8.1 [1 mark]
+State the meaning of "perfect ionic model".
+
+Mark Scheme:
+
+Ions are point charges / perfect spheres / no covalent character / no polarisation of ions
+8.2 [2 marks]
+Complete the Born–Haber cycle for Na₂O by writing formulas with state symbols on two blank lines.
+
+Mark Scheme:
+
+2Na⁺(g) + 2e⁻ + O(g)
+2Na(s) + ½O₂(g)
+8.3 [2 marks]
+Use enthalpy data to calculate enthalpy of lattice dissociation of Na₂O.
+
+Enthalpy change	ΔH / kJ mol⁻¹
+Atomisation of O	+248
+Atomisation of Na	+109
+Formation of Na₂O	−416
+1st IE of Na	+494
+1st EA of O	−142
+2nd EA of O	+844
+Mark Scheme:
+
+−416 + x = 248 + (2 × 109) + (2 × 494) − 142 + 844
+Enthalpy of lattice dissociation = (+)2572 kJ mol⁻¹
+8.4 [1 mark]
+Explain why the 2nd electron affinity of oxygen is positive.
+
+Mark Scheme:
+
+O⁻ repels the electron being added (negative ion repels electron)
+8.5 [2 marks]
+Explain why lattice dissociation enthalpy of Na₂O > NaCl.
+
+Mark Scheme:
+
+M1: Oxide ions have higher (negative) charge / smaller size / higher charge density than chloride ions
+M2: Stronger attraction between O²⁻ and Na⁺ / oppositely charged ions
+8.6 [2 marks]
+Calculate enthalpy of solution for NaCl.
+
+Enthalpy change	ΔH / kJ mol⁻¹
+Hydration of Cl⁻	−364
+Hydration of Na⁺	−406
+Lattice dissociation of NaCl	+771
+Mark Scheme:
+
+ΔH(solution) = 771 − 406 − 364 = (+)1 kJ mol⁻¹
+8.7 [1 mark]
+Give a reason why data books don't contain a value for enthalpy of solution of Na₂O.
+
+Mark Scheme:
+
+It reacts with water (forms NaOH) — not simply dissolves
+8.8 [3 marks]
+Calculate the temperature at which NaCl(s) → Na(s) + ½Cl₂(g) becomes feasible. ΔH = +411 kJ mol⁻¹, ΔS = +90.1 J K⁻¹ mol⁻¹.
+
+Mark Scheme:
+
+M1: T = ΔH/ΔS
+M2: T = 411 / (90.1 × 10⁻³) = 4562 K
+M3: T = 4562 − 273 = 4289°C (allow 4290°C)
+Question 9 — Metals and Compounds
+9.1 [1 mark]
+State why Ca has a greater atomic radius than Mg.
+
+Mark Scheme:
+
+More shells / more energy levels (Ca has 4 shells, Mg has 3)
+9.2 [1 mark]
+Give an equation, with state symbols, for Mg reacting with steam.
+
+Mark Scheme:
+
+Mg(s) + H₂O(g) → MgO(s) + H₂(g)
+9.3 [3 marks]
+Ba and Mg added to separate 100 cm³ samples of dilute H₂SO₄ (excess). Ba reacts quickly then stops with unreacted Ba remaining. Mg reacts more slowly but completely. Explain.
+
+Mark Scheme:
+
+M1: Ba more reactive — outer electrons further from nucleus / less attracted / lost more easily
+M2: Insoluble BaSO₄ is formed
+M3: BaSO₄ coats the barium, preventing further reaction with H₂SO₄
+9.4 [6 marks]
+2X(NO₃)₂(s) → 2XO(s) + 4NO₂(g) + O₂(g). 0.832 g produces 348 cm³ gas at 298 K, 100 kPa. Deduce identity of X. (R = 8.31 J K⁻¹ mol⁻¹)
+
+Mark Scheme:
+
+M1: P = 100 000 Pa; V = 348 × 10⁻⁶ m³
+M2: n = PV/RT = (100 000 × 348 × 10⁻⁶) / (8.31 × 298)
+M3: n = 0.01405 mol (total gas)
+M4: n X(NO₃)₂ = 0.01405 × 2/5 = 5.62 × 10⁻³ mol
+M5: Mr X(NO₃)₂ = 0.832 / 5.62 × 10⁻³ = 148.0
+M6: Ar of X = 148 − 124 = 24 → X = Mg (Magnesium)
+9.5 [3 marks]
+Na reacts with Al and H₂ to form NaAlH₄. Give an equation. Suggest why NaAlH₄ has a high melting point.
+
+Mark Scheme:
+
+M1: Na + Al + 2H₂ → NaAlH₄
+M2: Contains oppositely charged ions (Na⁺ and AlH₄⁻)
+M3: Strong attraction between oppositely charged ions
+9.6 [1 mark]
+Give the equation for H₃PO₄ + excess NaOH.
+
+Mark Scheme:
+
+3NaOH + H₃PO₄ → Na₃PO₄ + 3H₂O
+9.7 [1 mark]
+In a lithium cell, give the equation at the positive electrode.
+
+Mark Scheme:
+
+Li⁺ + CoO₂ + e⁻ → Li⁺(CoO₂)⁻ (allow LiCoO₂)
+9.8 [1 mark]
+State why lithium cells can be recharged.
+
+Mark Scheme:
+
+The electrode reactions can be reversed (by applying a reverse potential)
