@@ -1,0 +1,311 @@
+AQA A-Level Chemistry — Paper 1: Inorganic and Physical Chemistry
+7405/1 · June 2019 · 105 marks · 2 hours
+
+Question 1 — Born–Haber Cycle for Caesium Iodide
+Data (Table 1)
+Enthalpy change	ΔH° / kJ mol⁻¹
+Atomisation of caesium	+79
+1st ionisation energy of caesium	+376
+Electron affinity of iodine	−314
+Lattice formation of CsI	−585
+Formation of CsI	−337
+1.1 — Complete the Born–Haber cycle (2 marks)
+Complete Figure 1 by writing the formulas, including state symbols, of the appropriate species on each of the two blank lines.
+
+Mark scheme:
+
+Top line: Cs⁺(g) + e⁻ + I(g)
+Lower line: Cs(s) + ½I₂(s)
+1.2 — Calculate the standard enthalpy of atomisation of iodine (2 marks)
+Mark scheme:
+
+79 + x + 376 − 314 = −337 + 585
+ΔH_at(I) = +107 kJ mol⁻¹ (allow ≥ 2 s.f.; allow −107 for 1 mark)
+1.3 — What do the experimental vs calculated lattice enthalpies indicate? (1 mark)
+Experimental = −585 kJ mol⁻¹; Calculated (perfect ionic model) = −582 kJ mol⁻¹
+
+Mark scheme:
+
+(Almost/mostly) purely/perfectly ionic bonding.
+Allow "no/little covalent bonding/character". Penalise references to atoms/molecules.
+1.4 — Show that the decomposition of CsI is not feasible at 298 K (4 marks)
+CsI(s) → Cs(s) + ½I₂(s), ΔH° = +337 kJ mol⁻¹
+
+S° / J K⁻¹ mol⁻¹	CsI(s)	Cs(s)	I₂(s)
+130	82.8	117
+Mark scheme:
+
+M1 ΔS = [(82.8 + ½ × 117) − 130] = +11.3 J K⁻¹ mol⁻¹
+M2 ΔG = ΔH − TΔS
+M3 Convert units: ΔG = 337 − 298 × 11.3 × 10⁻³
+M4 ΔG = +334 kJ mol⁻¹ (positive → not feasible). Any negative answer loses M4.
+Question 2 — TOF Mass Spectrometry
+2.1 — Describe electrospray ionisation & give an equation for ionisation of P (4 marks)
+Pentapeptide P (leucine encephalin) is ionised by electrospray ionisation.
+
+Mark scheme:
+
+M1 P dissolved/added to a solvent
+M2 Injected through a needle/nozzle/capillary at high voltage (~4000 V)
+M3 Gains a proton / H⁺
+M4 Equation: P + H⁺ → PH⁺ (correct equation scores M3 + M4; ignore state symbols)
+2.2 — Relative molecular mass of P (1 mark)
+Tick one box: 555 / 556 / 557
+
+Mark scheme: 555 ✓
+
+2.3 — Calculate the relative molecular mass of Q (5 marks)
+Q⁺ has KE = 2.09 × 10⁻¹⁵ J, time = 1.23 × 10⁻⁵ s, flight tube = 1.50 m. KE = ½mv².
+
+Mark scheme:
+
+M1 v = d/t = 1.50 / 1.23 × 10⁻⁵ = 1.22 × 10⁵ m s⁻¹
+M2 m = 2KE / v² (rearrangement)
+M3 m = 2 × 2.09 × 10⁻¹⁵ / (1.22 × 10⁵)² = 2.81 × 10⁻²⁵ kg
+M4 M_r = 2.81 × 10⁻²⁵ × 6.022 × 10²³ = 0.169
+M5 × 1000 = 169 (allow ≥ 2 s.f.)
+Question 3 — Periodicity & Period 4
+3.1 — Meaning of "periodicity" (1 mark)
+Mark scheme: Repeating pattern/trends of physical or chemical properties. Penalise "groups".
+
+3.2 — Element in Period 4 with highest electronegativity (1 mark)
+Mark scheme: Bromine / Br (not Br₂; accept Kr/Krypton)
+
+3.3 — Element in Period 4 with largest atomic radius + explanation (3 marks)
+Mark scheme:
+
+Potassium / K (1 mark)
+Smallest number of protons / smallest nuclear charge (1 mark)
+Similar shielding / same number of shells as other Period 4 elements (1 mark)
+3.4 — Name the property of As₂O₃ that lets it react with both HCl and NaOH (1 mark)
+Mark scheme: Amphoteric
+
+3.5 — Balance the equation for formation of arsenic hydride (1 mark)
+As₂O₃ + _ Zn + _ HNO₃ → _ AsH₃ + _ Zn(NO₃)₂ + _ H₂O
+
+Mark scheme: As₂O₃ + 6 Zn + 12 HNO₃ → 2 AsH₃ + 6 Zn(NO₃)₂ + 3 H₂O
+
+Question 4 — Reactions of Aqueous Iron Ions
+4.1 — Formula of Precipitate J, colour, equation for Reaction 1 (3 marks)
+Reaction 1: aqueous Fe³⁺ ions react with Na₂CO₃.
+
+Mark scheme:
+
+Formula of J: [Fe(OH)₃(H₂O)₃]
+Colour: Brown (allow red-brown)
+Equation: 2[Fe(H₂O)₆]³⁺ + 3CO₃²⁻ → 2[Fe(OH)₃(H₂O)₃] + 3CO₂ + 3H₂O
+4.2 — Formula of L and equation for Reaction 2 (2 marks)
+Reaction 2: aqueous Fe³⁺ with excess Cl⁻.
+
+Mark scheme:
+
+Formula of L: [FeCl₄]⁻
+Equation: [Fe(H₂O)₆]³⁺ + 4Cl⁻ → [FeCl₄]⁻ + 6H₂O
+4.3 — Reagent for Reaction 3 (1 mark)
+Reaction 3: reduces Fe³⁺ to Fe²⁺.
+
+Mark scheme: (Excess) Zn in acid / HCl / H₂SO₄ (allow KI / potassium iodide)
+
+4.4 — Formula of Precipitate M and colour (2 marks)
+Precipitate M forms when NaOH is added to Fe²⁺.
+
+Mark scheme:
+
+Formula of M: [Fe(OH)₂(H₂O)₄]
+Colour: Green
+4.5 — Shapes of complexes and isomerism (cobalt(II) and platinum(II) examples) (6 marks — Levels of Response)
+Indicative content:
+
+Stage 1 — Shapes:
+
+Octahedral (6-coordinate)
+Tetrahedral or square planar (4-coordinate)
+Stage 2 — Cis/trans (geometric) isomerism:
+
+Occurs in square planar and/or octahedral complexes
+Draw cis and trans isomers of a square planar complex (e.g. Pt complexes)
+Draw cis and trans isomers of an octahedral complex (e.g. [M(H₂O)₄(OH)₂])
+Stage 3 — Optical isomerism:
+
+Non-superimposable mirror images in octahedral complexes
+Occurs with bidentate ligands (e.g. C₂O₄²⁻ or NH₂CH₂CH₂NH₂)
+Draw both optical isomers (e.g. [M(en)₃]²⁺)
+Level	Marks	Descriptor
+3	5–6	All 3 stages covered, generally correct & complete. ≥2 specific pairs of isomer diagrams.
+2	3–4	All 3 stages (some incomplete/inaccurate) OR 2 stages correct. ≥1 pair of isomer diagrams.
+1	1–2	2 stages (incomplete/inaccurate) OR 1 stage correct. ≥1 appropriate diagram/formula.
+0	0	Insufficient correct chemistry.
+Question 5 — Group 7 Compounds
+5.1 — Equation for NaCl + conc. H₂SO₄ & role of H₂SO₄ (2 marks)
+Mark scheme:
+
+NaCl + H₂SO₄ → NaHSO₄ + HCl (allow 2NaCl + H₂SO₄ → Na₂SO₄ + 2HCl)
+Role: Proton donor (allow Brønsted–Lowry acid)
+5.2 — NaBr + conc. H₂SO₄: equation, observation, role of H₂SO₄ (3 marks)
+Mark scheme:
+
+Equation: 2NaBr + 2H₂SO₄ → Na₂SO₄ + SO₂ + Br₂ + 2H₂O (or variants with NaHSO₄)
+Observation: Brown/orange gas/fumes (not yellow solid; ignore fizzing/misty fumes)
+Role: Oxidising agent (allow electron acceptor; ignore acid/proton donor)
+5.3 — Oxidation state of Cl in NaClO₃ and NaCl (1 mark)
+Mark scheme:
+
+NaClO₃: (+)5
+NaCl: −1
+5.4 — What happens to Cl in terms of redox? (1 mark)
+Mark scheme: Chlorine is both oxidised and reduced (allow "undergoes disproportionation" / "gains and loses electrons")
+
+5.5 — Identifying ions in Solution Y (6 marks)
+Solution Y + AgNO₃ → cream precipitate (D + E) → + excess dilute HNO₃ → cream ppt D remains + gas F → + excess conc. NH₃ → colourless solution with complex ion G.
+
+Mark scheme:
+
+D = AgBr (1 mark)
+E = Ag₂CO₃ (1 mark)
+F = CO₂ (1 mark)
+Ionic equation for E: 2Ag⁺ + CO₃²⁻ → Ag₂CO₃ (1 mark)
+Equation D → G: AgBr + 2NH₃ → [Ag(NH₃)₂]⁺ + Br⁻ (2 marks — 1 for [Ag(NH₃)₂]⁺, 1 for balanced equation)
+Question 6 — Iodometric Titration (Copper in Alloy)
+Key data
+985 mg alloy dissolved → 250 cm³ solution
+25.0 cm³ aliquot + excess KI
+9.00 cm³ of 0.0800 mol dm⁻³ Na₂S₂O₃ used
+Equations:
+
+2Cu²⁺ + 4I⁻ → 2CuI + I₂
+2S₂O₃²⁻ + I₂ → 2I⁻ + S₄O₆²⁻
+6.1 — Calculate % copper by mass (6 marks)
+Mark scheme:
+
+M1 mol S₂O₃²⁻ = 9.00/1000 × 0.0800 = 7.20 × 10⁻⁴ mol
+M2 mol Cu²⁺ in 25 cm³ = 7.20 × 10⁻⁴ (1:1 ratio from combined equations)
+M3 mol Cu²⁺ in 250 cm³ = 7.20 × 10⁻³
+M4 mass Cu = 7.20 × 10⁻³ × 63.5 = 0.457 g
+M5 mass alloy = 0.985 g (unit conversion)
+M6 % Cu = 0.457 / 0.985 × 100 = 46.4% (answer to 3 s.f.)
+6.2 — Two ways to reduce % uncertainty in thiosulfate volume (2 marks)
+Mark scheme:
+
+Use more of the alloy (increases titre volume)
+Use a lower concentration of thiosulfate (increases titre volume)
+6.3 — Role of iodine in reaction with Na₂S₂O₃ (1 mark)
+Mark scheme: Oxidising agent (allow electron acceptor)
+
+6.4 — Full electron configuration of Cu²⁺ (1 mark)
+Mark scheme: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁹ (do NOT allow [Ar]3d⁹)
+
+6.5 — Explain why CuI is white (2 marks)
+Mark scheme:
+
+Full 3d subshell / 3d¹⁰ (1 mark)
+No d–d transitions possible / cannot absorb visible light (1 mark, dependent on M1)
+6.6 — Volume of 5.00 g iodine vapour at 185 °C, 100 kPa (4 marks)
+Mark scheme:
+
+M1 n = 5.00 / 253.8 = 0.0197 mol (allow 254; if 127 used, lose M1 only)
+M2 T = 458 K, P = 100 000 Pa
+M3 V = nRT/P = 0.0197 × 8.31 × 458 / 100 000
+M4 V = 750 cm³ (allow 749; to 3 s.f.)
+Question 7 — Equilibrium (SO₃ decomposition)
+2SO₃(g) ⇌ 2SO₂(g) + O₂(g)
+
+7.1 — Mass of O₂ in equilibrium mixture (2 marks)
+Equilibrium mixture contains 6.08 g SO₂.
+
+Mark scheme:
+
+mol SO₂ = 6.08 / 64.1 = 0.0949 → mol O₂ = 0.0949 / 2 = 0.0474 (allow 0.0475)
+mass O₂ = 0.0474 × 32.0 = 1.52 g
+7.2 — Mole fractions, Kp expression, and total pressure at 1050 K (4 marks)
+Substance	Moles at equilibrium
+SO₃	0.320
+SO₂	1.20
+O₂	0.600
+Kp = 7.62 × 10⁵ Pa at 1050 K
+
+Mark scheme:
+
+M1 Mole fractions: SO₃ = 0.15, SO₂ = 0.57, O₂ = 0.28 (accept fractions)
+M2 Kp = (pSO₂)² × (pO₂) / (pSO₃)²
+M3 Rearrange: P = Kp × (λSO₃)² / [(λSO₂)² × (λO₂)]
+M4 P = 1.91 × 10⁵ Pa (allow 1.88–1.94 × 10⁵)
+7.3 — Deduce the forward reaction is endothermic (2 marks)
+Kp at 1050 K = 7.62 × 10⁵ Pa; Kp at 500 K = 3.94 × 10⁴ Pa
+
+Mark scheme:
+
+M1 Kp is higher at higher temperature (or converse)
+M2 More dissociation / more products / equilibrium shifts right at higher T (dependent on M1)
+7.4 — Kp at 500 K for ½SO₃(g) ⇌ SO₂(g) + ½O₂(g) & units (2 marks)
+Mark scheme:
+
+Kp = √(3.94 × 10⁴) = 198.5 (allow 198–198.5)
+Units: Pa¹/² (or Pa⁰·⁵)
+Question 8 — Structure and Bonding
+8.1 — Diagram of strongest interaction between two ethanol molecules (3 marks)
+Mark scheme:
+
+M1 Two lone pairs on each O atom and δ+ / δ− on each H–O bond
+M2 Dotted/dashed line between lone pair on one O and the H (bonded to O) on the other molecule
+M3 O···H–O in a straight line (dependent on M2; allow ≤15° deviation)
+8.2 — Explain the boiling point difference: ethanol (78 °C) vs methoxymethane (−24 °C) (3 marks)
+Mark scheme:
+
+Hydrogen bonds between ethanol molecules (1 mark)
+(Permanent) dipole–dipole or van der Waals forces between methoxymethane molecules (1 mark)
+Hydrogen bonds are the strongest intermolecular force / more energy needed to overcome them (1 mark)
+8.3 — Shapes of POCl₃ and ClF₄⁻ (5 marks)
+In POCl₃ the O is double-bonded to P using 2 electrons from P.
+
+Mark scheme:
+
+POCl₃ diagram: shape showing 1 P=O double bond and 3 P–Cl bonds (1 mark)
+ClF₄⁻ diagram: shape showing 4 Cl–F bonds and 2 lone pairs (1 mark)
+Name of POCl₃ shape: (distorted) Tetrahedral (1 mark)
+Name of ClF₄⁻ shape: Square planar (1 mark)
+Bond angle in ClF₄⁻: 90° (1 mark)
+Question 9 — pH, Ka, and Buffers
+9.1 — Explain why pure water at pH 6.67 (40 °C) is not acidic; determine Kw (4 marks)
+Mark scheme:
+
+M1 [H⁺] = [OH⁻] (equal concentrations → neutral)
+M2 [H⁺] = 10⁻⁶·⁶⁷ = 2.14 × 10⁻⁷ mol dm⁻³
+M3 Kw = [H⁺]² (or (2.14 × 10⁻⁷)²)
+M4 Kw = 4.57 × 10⁻¹⁴ mol² dm⁻⁶ (allow 4.58 × 10⁻¹⁴; dependent on squaring in M3)
+9.2 — Determine Ka for propanoic acid at 25 °C from a titration curve (3 marks)
+25 cm³ of 0.080 mol dm⁻³ propanoic acid titrated with NaOH; pH curve given (Figure 4).
+
+Mark scheme:
+
+M1 Determine volume at half-equivalence: equivalence ≈ 19.5 cm³ → half = 9.75 cm³ (allow 9.7–9.85)
+M2 Read pH at half-equivalence: pH ≈ 4.80–4.95
+M3 Ka = 10⁻ᵖᴴ ≈ 10⁻⁴·⁹ = 1.26 × 10⁻⁵ mol dm⁻³ (allow 1.12–1.58 × 10⁻⁵)
+Alternative: pH of pure acid ≈ 3 → Ka = (10⁻³)² / 0.080 = 1.25 × 10⁻⁵
+
+9.3 — Most appropriate indicator (1 mark)
+Indicator	pH range
+methyl orange	3.1–4.4
+bromothymol blue	6.0–7.6
+cresolphthalein	8.2–9.8
+indigo carmine	11.6–13.0
+Mark scheme: Cresolphthalein ✓
+
+9.4 — pH of buffer after adding KOH (6 marks)
+0.0136 mol KX + 100 cm³ of 0.500 mol dm⁻³ HX. Then 3.00 × 10⁻⁴ mol KOH added. Ka = 1.41 × 10⁻⁵ mol dm⁻³. Answer to 2 d.p.
+
+Mark scheme:
+
+M1 Ka = [H⁺][X⁻] / [HX] → [H⁺] = Ka × [HX] / [X⁻]
+M2 mol HX = 0.100 × 0.500 = 0.0500 mol
+M3 mol HX after KOH = 0.0500 − 3.00 × 10⁻⁴ = 0.0497 mol
+M4 mol KX after KOH = 0.0136 + 3.00 × 10⁻⁴ = 0.0139 mol
+M5 [H⁺] = 1.41 × 10⁻⁵ × 0.0497 / 0.0139 = 5.04 × 10⁻⁵
+M6 pH = −log₁₀(5.04 × 10⁻⁵) = 4.30 (2 d.p.)
+TIP
+
+If M3 and M4 are not attempted, max 2 marks. If M3/M4 attempted but 3 × 10⁻⁴ not used correctly, max 4 marks.
+
+9.5 — Why does a buffer have constant pH when diluted? (1 mark)
+Mark scheme: pH = −log(Ka × [HX] / [X⁻]). Since both [HX] and [X⁻] are diluted equally, the ratio remains (almost) constant, so pH is unchanged.
+
+End of paper.
