@@ -1,0 +1,409 @@
+# AQA A-Level Chemistry — Paper 2: Organic and Physical Chemistry
+
+**7405/2 · June 2019 · 105 marks · 2 hours**
+
+---
+
+## Question 1 — Amines
+
+### 1.1 — Give an equation for the preparation of 1,6-diaminohexane (2 marks)
+
+Give an equation for the preparation of 1,6-diaminohexane by the reaction of 1,6-dibromohexane with an excess of ammonia.
+
+> **Mark Scheme:**
+> $\text{Br(CH}_2\text{)}_6\text{Br} + 4\text{NH}_3 \rightarrow \text{H}_2\text{N(CH}_2\text{)}_6\text{NH}_2 + 2\text{NH}_4\text{Br}$
+> *(Allow $2\text{NH}_3$ forming $2\text{HBr}$)*
+
+### 1.2 — Complete the mechanism and suggest a by-product (4 marks)
+
+Complete the mechanism for the reaction of ammonia with 6-bromohexylamine to form 1,6-diaminohexane. Suggest the structure of a cyclic secondary amine that can be formed as a by-product in this reaction.
+
+> **Mark Scheme:**
+> * **Mechanism:** Nucleophilic substitution. Arrow from lone pair on $\text{NH}_3$ to the C attached to Br. Arrow from C-Br bond to Br. Arrow from N-H bond to the N atom on the intermediate.
+> * **Cyclic secondary amine:** Azepane (draw a 7-membered ring containing 6 carbon atoms and 1 nitrogen atom, $\text{C}_6\text{H}_{12}\text{NH}$).
+> 
+> 
+
+### 1.3 — Alternative two-stage synthesis (3 marks)
+
+1,6-Diaminohexane can also be formed in a two-stage synthesis starting from 1,4-dibromobutane. Suggest the reagent and a condition for each stage.
+
+> **Mark Scheme:**
+> * **Stage 1 Reagent & Condition:** KCN / aqueous and alcoholic (ethanol) / heat or boil under reflux.
+> * **Stage 2 Reagent & Condition:** $\text{H}_2$ / Ni catalyst OR $\text{LiAlH}_4$ in ether.
+> 
+> 
+
+### 1.4 — Base strength of 3-aminopentane (2 marks)
+
+Explain why 3-aminopentane is a stronger base than ammonia.
+
+> **Mark Scheme:**
+> * The lone pair of electrons on the nitrogen atom is more available / more easily donated.
+> * Due to the positive inductive effect (electron-pushing effect) of the alkyl groups.
+> 
+> 
+
+### 1.5 — Chiral centres in 3-aminopentane (1 mark)
+
+Justify the statement that there are no chiral centres in 3-aminopentane.
+
+> **Mark Scheme:**
+> There is no carbon atom attached to four different groups (the central carbon has two identical ethyl groups attached).
+
+---
+
+## Question 2 — Preparation of Cyclohexene
+
+### 2.1 — Complete the distillation apparatus diagram (2 marks)
+
+The student prepared cyclohexene by heating cyclohexanol with concentrated phosphoric acid and distilling it at 83 °C.
+
+> **Mark Scheme:**
+> * Thermometer bulb placed correctly at the T-junction of the distillation head.
+> * Water jacketed condenser showing water entering at the bottom and exiting at the top, leading into a collecting flask.
+> 
+> 
+
+### 2.2 — Separation using a separating funnel (1 mark)
+
+State why cyclohexene can be separated from the aqueous solution using the separating funnel.
+
+> **Mark Scheme:**
+> Cyclohexene is insoluble / immiscible in water (forms distinct layers).
+
+### 2.3 — Confirming the cyclohexene is dry (1 mark)
+
+Give one observation that the student made to confirm that the cyclohexene was dry after adding anhydrous calcium chloride.
+
+> **Mark Scheme:**
+> The liquid turns clear / is no longer cloudy.
+
+### 2.4 — Calculate percentage yield (5 marks)
+
+14.4 g of cyclohexanol ($M_r = 100.0$) yielded 4.15 cm³ of cyclohexene ($M_r = 82.0$). Density of cyclohexene = 0.810 g cm⁻³. Calculate the percentage yield.
+
+> **Mark Scheme:**
+> * **M1:** Moles of cyclohexanol = $\frac{14.4}{100.0} = 0.144 \text{ mol}$
+> * **M2:** Mass of cyclohexene = $4.15 \times 0.810 = 3.36 \text{ g}$
+> * **M3:** Moles of cyclohexene = $\frac{3.36}{82.0} = 0.0410 \text{ mol}$
+> * **M4:** $\%$ yield = $\frac{0.0410}{0.144} \times 100$
+> * **M5:** **28.5%** *(allow 28.4% to 28.5%)*
+> 
+> 
+
+### 2.5 — Mechanism for cyclohexene reacting with bromine (3 marks)
+
+> **Mark Scheme:**
+> Electrophilic addition mechanism.
+> * Arrow from C=C double bond to $\text{Br}^{\delta+}$
+> * Arrow from Br-Br bond to $\text{Br}^{\delta-}$
+> * Arrow from lone pair on $\text{Br}^-$ to the positive carbon on the carbocation intermediate.
+> 
+> 
+
+---
+
+## Question 3 — Polymers and Isoprene
+
+### 3.1 — Deduce the molecular formula of isoprene (4 marks)
+
+Isoprene contains 88.2% carbon by mass. The empirical formula is the same as the molecular formula.
+
+> **Mark Scheme:**
+> * **M1:** $\%$ of Hydrogen = 11.8%
+> * **M2:** Moles ratio: $\text{C} = \frac{88.2}{12.0} = 7.35$; $\text{H} = \frac{11.8}{1.0} = 11.8$
+> * **M3:** Ratio $\text{C}:\text{H} = 1 : 1.6 \rightarrow 5 : 8$. Molecular formula = $\text{C}_5\text{H}_8$
+> * **M4:** Structure: 2-methylbut-1,3-diene, $\text{CH}_2\text{=C(CH}_3\text{)CH=CH}_2$
+> 
+> 
+
+### 3.2 — Skeletal formula and IUPAC name of monomer (2 marks)
+
+> **Mark Scheme:**
+> * **Skeletal formula:** Drawing of but-1-ene.
+> * **IUPAC name:** but-1-ene *(allow butene)*.
+> 
+> 
+
+### 3.3 — Stereoisomerism in polymers (2 marks)
+
+Draw the repeating unit of the third polymer (a stereoisomer) and give a reason why this stereoisomerism arises.
+
+> **Mark Scheme:**
+> * **Repeating unit:** Draw the corresponding *E* (or *Z*) isomer of the alkene backbone.
+> * **Reason:** Restricted rotation around the C=C double bond and two different groups attached to each carbon of the double bond.
+> 
+> 
+
+### 3.4 — Explain why these golf balls do not biodegrade (1 mark)
+
+> **Mark Scheme:**
+> The carbon-carbon backbone is composed of strong / non-polar bonds (cannot be attacked by enzymes or hydrolyzed).
+
+---
+
+## Question 4 — Initial Rates
+
+### 4.1 — Complete Table 2 for initial rate (1 mark)
+
+> **Mark Scheme:**
+> * **Experiment 2:** **3.2 $\times$ 10⁻⁴**
+> * **Experiment 3:** **3.2 $\times$ 10⁻⁴**
+> 
+> 
+
+### 4.2 — Determine the order of reaction (2 marks)
+
+> **Mark Scheme:**
+> * **Order with respect to P:** 1
+> * **Order with respect to Q:** 2
+> 
+> 
+
+### 4.3 — Calculate the rate constant, k (3 marks)
+
+Rate = $1.20 \times 10^{-3} \text{ mol dm}^{-3} \text{ s}^{-1}$; [R] = $1.00 \times 10^{-2} \text{ mol dm}^{-3}$; [S] = $2.45 \times 10^{-2} \text{ mol dm}^{-3}$. Second order w.r.t both R and S.
+
+> **Mark Scheme:**
+> * **M1:** Rate = $k[\text{R}]^2[\text{S}]^2$
+> * **M2:** $k = \frac{1.20 \times 10^{-3}}{(1.00 \times 10^{-2})^2 \times (2.45 \times 10^{-2})^2} = \text{2.00} \times 10^4$
+> * **M3:** Units: $\text{mol}^{-3} \text{ dm}^9 \text{ s}^{-1}$
+> 
+> 
+
+---
+
+## Question 5 — Arrhenius Equation
+
+### Calculate the Arrhenius constant, A (4 marks)
+
+$k = 3.46 \times 10^{-8} \text{ s}^{-1}$ at 25 °C. $E_a = 96.2 \text{ kJ mol}^{-1}$.
+
+> **Mark Scheme:**
+> * **M1:** Convert T to Kelvin ($298 \text{ K}$) and $E_a$ to Joules ($96200 \text{ J mol}^{-1}$)
+> * **M2:** Rearrange equation: $A = \frac{k}{e^{-E_a/RT}}$
+> * **M3:** $A = \frac{3.46 \times 10^{-8}}{e^{-96200 / (8.31 \times 298)}} = \text{2.52} \times 10^9$
+> * **M4:** Units: $\text{s}^{-1}$
+> 
+> 
+
+---
+
+## Question 6 — Isomers
+
+### 6.1 — Distinguish 2-methylbutan-1-ol and 2-methylbutan-2-ol (3 marks)
+
+> **Mark Scheme:**
+> * **Reagent:** Acidified potassium dichromate(VI) / $\text{K}_2\text{Cr}_2\text{O}_7$ and $\text{H}_2\text{SO}_4$
+> * **Obs. 1-ol:** Orange solution turns green
+> * **Obs. 2-ol:** No visible change / remains orange
+> 
+> 
+
+### 6.2 — Structures of C₄H₈Br₂ from NMR (2 marks)
+
+A = singlet, triplet, quartet. B = two singlets.
+
+> **Mark Scheme:**
+> * **A:** 2,2-dibromobutane, $\text{CH}_3\text{CH}_2\text{CBr}_2\text{CH}_3$
+> * **B:** 1,2-dibromo-2-methylpropane, $\text{(CH}_3\text{)}_2\text{C(Br)CH}_2\text{Br}$
+> 
+> 
+
+### 6.3 — Structures of C₆H₃Br₃ from ¹³C NMR (2 marks)
+
+C = two peaks. D = four peaks.
+
+> **Mark Scheme:**
+> * **C:** 1,3,5-tribromobenzene
+> * **D:** 1,2,4-tribromobenzene
+> 
+> 
+
+### 6.4 — Infrared Spectra matching (1 mark)
+
+> **Mark Scheme:**
+> Correctly label the three spectra E, F, and G based on the identification of functional groups (e.g., matching the broad O-H acid stretch, O-H alcohol stretch, or C=O stretch to the appropriate isomers).
+
+---
+
+## Question 7 — Distinguishing Isomers X and Y
+
+### 7.1 — IUPAC name for isomer X (C₅H₈O) (1 mark)
+
+> **Mark Scheme:** Cyclopentanone (or appropriate alkene/ketone chain depending on the exact structure given in the figure).
+
+### 7.2 — Explain how to distinguish them (6 marks)
+
+Using boiling points, ¹³C NMR spectra, and infrared spectra.
+
+> **Mark Scheme:**
+> * **Boiling Point:** Identify difference in intermolecular forces (e.g., hydrogen bonding vs dipole-dipole) causing one to have a higher boiling point.
+> * **¹³C NMR:** State the different number of carbon environments/peaks expected for each isomer.
+> * **Infrared Spectra:** Identify characteristic absorption bands using the Data Booklet (e.g., presence of an O-H stretch at 3230–3550 cm⁻¹ for an alcohol vs C=O stretch at 1680–1750 cm⁻¹ for a ketone/aldehyde).
+> 
+> 
+
+---
+
+## Question 8 — Paracetamol Synthesis
+
+### 8.1 — Name mechanism in Step 1 (1 mark)
+
+> **Mark Scheme:** Electrophilic substitution
+
+### 8.2 — Equation for Step 2 (1 mark)
+
+> **Mark Scheme:** $\text{C}_6\text{H}_4\text{(OH)NO}_2 + 6\text{[H]} \rightarrow \text{C}_6\text{H}_4\text{(OH)NH}_2 + 2\text{H}_2\text{O}$
+
+### 8.3 — Mechanism for 4-aminophenol with ethanoyl chloride (2 marks)
+
+> **Mark Scheme:** Nucleophilic addition-elimination. Arrow from lone pair on N of $\text{RNH}_2$ attacking the carbonyl carbon. Arrow from the C=O double bond breaking onto oxygen.
+
+### 8.4 — Why ethanoyl chloride is not used (1 mark)
+
+> **Mark Scheme:** Forms toxic / corrosive HCl fumes.
+
+### 8.5 — Other aromatic product in Step 3 (1 mark)
+
+> **Mark Scheme:** Esterification on the phenol group (draw 4-nitrophenyl ethanoate or similar).
+
+### 8.6 — Equation for hydroquinone + ammonium ethanoate (1 mark)
+
+> **Mark Scheme:** $\text{HO-C}_6\text{H}_4\text{-OH} + \text{CH}_3\text{COONH}_4 \rightarrow \text{HO-C}_6\text{H}_4\text{-NHCOCH}_3 + 2\text{H}_2\text{O}$
+
+### 8.7 — Mass of hydroquinone to produce 250 kg paracetamol (3 marks)
+
+> **Mark Scheme:**
+> * **M1:** Moles of paracetamol = $\frac{250 \times 10^3}{151.0} = 1656 \text{ mol}$
+> * **M2:** Mass of hydroquinone = $1656 \times 110.0$
+> * **M3:** **182 kg** *(allow 182.1)*
+> 
+> 
+
+---
+
+## Question 9 — Thin-Layer Chromatography (TLC)
+
+### 9.1 — Reagent for protein hydrolysis (1 mark)
+
+> **Mark Scheme:** Concentrated HCl / 6M HCl (and heat/reflux).
+
+### 9.2 — Locating amino acids on TLC plate (1 mark)
+
+> **Mark Scheme:** Spray with ninhydrin (and heat) OR use UV light.
+
+### 9.3 — Minimum number of amino acids (1 mark)
+
+> **Mark Scheme:** 4
+
+### 9.4 — Why use two different solvents? (1 mark)
+
+> **Mark Scheme:** Some amino acids might have the same $R_f$ value / not separate in the first solvent, but will have different affinities and separate in the second.
+
+---
+
+## Question 10 — Molecular Formulas and Titration
+
+### 10.1 — Deduce formula of dicarboxylic acid ($M_r \approx 118$) (3 marks)
+
+> **Mark Scheme:** $\text{C}_4\text{H}_6\text{O}_4$ (Butanedioic acid). COOH groups = 90, leaving 28 for the $\text{C}_2\text{H}_4$ backbone.
+
+### 10.2 — Calculate mass of dicarboxylic acid used (4 marks)
+
+25.0 cm³ of acid neutralised by 21.60 cm³ of 0.109 mol dm⁻³ NaOH. Total volume 250 cm³.
+
+> **Mark Scheme:**
+> * **M1:** Moles of NaOH = $\frac{21.60 \times 0.109}{1000} = 2.35 \times 10^{-3} \text{ mol}$
+> * **M2:** Moles of acid in 25 cm³ = $\frac{2.35 \times 10^{-3}}{2} = 1.177 \times 10^{-3} \text{ mol}$
+> * **M3:** Moles of acid in 250 cm³ = $1.177 \times 10^{-2} \text{ mol}$
+> * **M4:** Mass = $1.177 \times 10^{-2} \times 118 = \text{1.39 g}$ *(to 3 s.f.)*
+> 
+> 
+
+### 10.3 & 10.4 — Diols with formula C₆H₁₄O₂ (2 marks)
+
+> **Mark Scheme:**
+> * **10.3:** State the correct number of peaks for the diol shown in the paper (typically 3 peaks for a symmetrical straight-chain diol like 1,6-hexanediol).
+> * **10.4:** Draw a diol with exactly 2 singlets (e.g., pinacol / 2,3-dimethylbutane-2,3-diol).
+> 
+> 
+
+### 10.5 — Distinguishing by High-Res Mass Spec (1 mark)
+
+> **Mark Scheme:** They have different exact $M_r$ values / different exact masses because they have different atomic compositions.
+
+---
+
+## Question 11 — Esters and Biodiesel
+
+### 11.1 — Acid anhydride + ethanol (3 marks)
+
+> **Mark Scheme:**
+> * **Equation:** $\text{(CH}_3\text{CO)}_2\text{O} + \text{CH}_3\text{CH}_2\text{OH} \rightarrow \text{CH}_3\text{COOCH}_2\text{CH}_3 + \text{CH}_3\text{COOH}$
+> * **Name:** Ethyl ethanoate
+> 
+> 
+
+### 11.2 — Structure of the vegetable oil (2 marks)
+
+> **Mark Scheme:** Draw the generic triglyceride structure with ester linkages connecting a 3-carbon backbone to two $\text{C}_{17}\text{H}_{31}\text{COO}$ groups and one $\text{C}_{17}\text{H}_{33}\text{COO}$ group.
+
+### 11.3 — Complete the skeletal formula (2 marks)
+
+> **Mark Scheme:** Extend the carbon chain to show two double bonds, both strictly in the *Z* (cis) configuration, at positions 9 and 12.
+
+### 11.4 — Combustion of C₁₉H₃₄O₂ (1 mark)
+
+> **Mark Scheme:** $\text{C}_{19}\text{H}_{34}\text{O}_2 + 26.5\text{O}_2 \rightarrow 19\text{CO}_2 + 17\text{H}_2\text{O}$
+
+### 11.5 & 11.6 — Carbon dioxide and global warming (3 marks)
+
+> **Mark Scheme:**
+> * **11.5:** The C=O absorption peak for $\text{CO}_2$ (~2350 cm⁻¹) is outside the expected 1680–1750 cm⁻¹ range found in the data booklet for typical organic carbonyls.
+> * **11.6:** C=O bonds in $\text{CO}_2$ absorb infrared radiation / heat emitted from the Earth's surface and trap it in the atmosphere / re-radiate it.
+> 
+> 
+
+---
+
+## Question 12 — DNA
+
+### 12.1 — Hydrogen bonds between strands (2 marks)
+
+> **Mark Scheme:**
+> * 3 dashed lines between G and C.
+> * 2 dashed lines between A and T.
+> 
+> 
+
+### 12.2 — Identify the cytosine nucleotide (2 marks)
+
+> **Mark Scheme:** Draw a ring enclosing one phosphate group, one deoxyribose sugar, and the cytosine base covalently bonded together.
+
+### 12.3 — Meaning of "complementary" (1 mark)
+
+> **Mark Scheme:** Specific base pairing (A only pairs with T; C only pairs with G).
+
+---
+
+## Question 13 — Reduction by NaBH₄
+
+### 13.1 — Mechanism and Explanation (5 marks)
+
+Reaction between $\text{NaBH}_4$ and 2-methylbutanal vs 2-methylbut-1-ene.
+
+> **Mark Scheme:**
+> * **Mechanism (2 marks):** Arrow from lone pair on $\text{H}^-$ (hydride) attacking the partially positive ($\delta+$) carbonyl carbon. Arrow from the C=O double bond moving to the oxygen atom.
+> * **Explanation (3 marks):** $\text{NaBH}_4$ provides a hydride ion ($\text{H}^-$) which acts as a nucleophile. It attacks the electron-deficient / $\delta+$ carbonyl carbon. Alkenes have an electron-rich C=C double bond, which repels the nucleophile.
+> 
+> 
+
+### 13.2 — Chemical test for incomplete reduction (2 marks)
+
+> **Mark Scheme:**
+> * **Reagent:** Tollens' reagent *(allow Fehling's solution)*.
+> * **Observation:** Silver mirror forms *(allow red precipitate for Fehling's)*.
+> 
+>
