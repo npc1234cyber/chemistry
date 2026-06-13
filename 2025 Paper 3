@@ -1,0 +1,439 @@
+# A-level AQA Chemistry — Paper 3 (7405/3) — June 2025
+**Friday 20 June 2025 — Morning — 2 hours — 90 marks**
+*(Section A: 60 marks, Section B: 30 marks)*
+
+---
+
+## SECTION A
+
+---
+
+### Question 1 — Enthalpy of Solution (KOH)
+
+**0 1 . 1** [1 mark]
+
+Give the equation, including state symbols, for the process that occurs when the enthalpy of solution of potassium hydroxide is determined.
+
+**Mark Scheme:**
+
+KOH(s) → K⁺(aq) + OH⁻(aq)
+*(ALLOW (+)aq on arrow; ALLOW KOH(aq) as product; IGNORE H₂O on arrow; NOT equations with H₂O on LHS and/or RHS; NOT ⇌)*
+
+---
+
+**0 1 . 2** [5 marks]
+
+A student dissolves 3.00 g of solid KOH in water in a polystyrene cup. Initial temperature = 18.1 °C, final temperature = 30.4 °C. The student calculated the enthalpy of solution to be –51.3 kJ mol⁻¹. Specific heat capacity c = 4.18 J K⁻¹ g⁻¹. Density of solution = 1.00 g cm⁻³.
+
+Calculate the volume of water that the student added to the cup.
+
+**Mark Scheme:**
+
+- M1: Amount of KOH = 3.00 / 56.1 = 0.053476 mol
+- M2: q = ΔH × M1 = 0.053476 × 51300 = 2744.5 J (= 2745 J)
+- M3: ΔT = 30.4 – 18.1 = 12.3 °C
+- M4: m = q / (c × ΔT) = M2 in J / (4.18 × M3)
+- M5: Answer to M4 in cm³
+
+*Answer: 52.8 – 53.4 cm³ (= 5 marks); must be to min 2 sig. fig. and units of cm³*
+*(ALLOW units of dm³ only if answer given as 0.0528–0.0534 dm³ to min 2 sf)*
+
+---
+
+**0 1 . 3** [2 marks]
+
+Table 2 shows some enthalpy change data:
+- Enthalpy of lattice formation of KOH = –789 kJ mol⁻¹
+- Enthalpy of hydration of K⁺ ions = –322 kJ mol⁻¹
+- Enthalpy of hydration of OH⁻ ions = –528 kJ mol⁻¹
+
+Use the data in Table 2 to calculate the enthalpy of solution for potassium hydroxide.
+
+**Mark Scheme:**
+
+- M1: Enthalpy of solution = enthalpy of hydration K⁺ + enthalpy of hydration OH⁻ − Lattice enthalpy of formation
+  = –322 – 528 – (–789)
+  OR –789 + x = –322 + (–528)
+- M2: **–61 kJ mol⁻¹**
+
+*(–61 = 2 marks; +61 = 1 mark; –1639 = 1 mark; NOT +1639)*
+
+---
+
+**0 1 . 4** [1 mark]
+
+Suggest why the value calculated in Question 01.3 is different from the experimental value given in Question 01.2.
+
+**Mark Scheme:**
+
+Heat losses **OR** incomplete dissolving
+
+*(ALLOW incomplete dissociation/reaction; ALLOW thermal energy for 'heat'; IGNORE not standard conditions / covalent character / evaporation of water / apparatus uncertainty; IGNORE energy loss unqualified; NOT data book values are averages; NOT incomplete combustion; NOT heat gain; NOT references to yield)*
+
+---
+
+### Question 2 — Rate of Reaction (iodine clock)
+
+The reaction investigated:
+H₂O₂(aq) + 2I⁻(aq) + 2H⁺(aq) → I₂(aq) + 2H₂O(l)
+
+Thiosulfate ions react with iodine as it forms: I₂(aq) + 2S₂O₃²⁻(aq) → 2I⁻(aq) + S₄O₆²⁻(aq)
+
+| Experiment | [H₂O₂] / mol dm⁻³ | [I⁻] / mol dm⁻³ | [H⁺] / mol dm⁻³ | Time / s |
+|---|---|---|---|---|
+| 1 | 0.010 | 0.010 | 0.10 | 60 |
+| 2 | 0.020 | 0.010 | 0.10 | 30 |
+| 3 | 0.030 | 0.010 | 0.10 | 20 |
+| 4 | 0.030 | 0.020 | 0.10 | 10 |
+| 5 | 0.030 | 0.020 | 0.20 | 10 |
+
+---
+
+**0 2 . 1** [3 marks]
+
+The amount of thiosulfate is the same in each experiment. To allow the order of reaction with respect to each reactant to be calculated, several other variables need to be controlled.
+
+Identify **three** other control variables.
+
+**Mark Scheme:**
+
+Any 3 from:
+- Temperature
+- Amount/volume of starch
+- Total volume / volume of reaction mixture
+- (Constant) stirring/agitation
+- Same person observing colour change / same shade of colour when timing stopped
+
+*(ALLOW concentration/mass of starch; IGNORE same stopwatch; IGNORE concs/vols/amounts of thiosulfate & other reagents; IGNORE references to (same) apparatus; IGNORE same person unqualified)*
+
+---
+
+**0 2 . 2** [3 marks]
+
+Deduce the order of reaction with respect to each reactant. Explain how you deduced the order with respect to iodide ions.
+
+**Mark Scheme:**
+
+- M1: Order with respect to H₂O₂ = **1st**, order with respect to I⁻ = **1st**, order with respect to H⁺ = **zero**
+- M2: Doubling [I⁻] halves the time
+- M3: (Use experiments 3 and 4) because [H⁺] and [H₂O₂] stay the same **OR** because only [I⁻] changes
+
+*(M2 ALLOW doubling [I⁻] doubles the rate; ALLOW M2 AND M3 for when [I⁻] doubles and [H⁺] and [H₂O₂] stay the same the time halves / rate doubles)*
+
+---
+
+**0 2 . 3** [2 marks]
+
+Give the rate equation for the reaction. Determine the units of the rate constant.
+
+**Mark Scheme:**
+
+- M1: Rate = k[H₂O₂][I⁻]
+  *(ALLOW rate = k[H₂O₂]¹[I⁻]¹[H⁺]⁰; ALLOW M1 independent of 02.2 if correct; NOT ())*
+- M2: **mol⁻¹ dm³ s⁻¹**
+  *(M2 dependent on a rate equation in M1; ALLOW any order of mol dm s; ALLOW M2 if no answer to M1)*
+
+---
+
+**0 2 . 4** [3 marks]
+
+In each experiment, 1.00 cm³ of 1.00 × 10⁻³ mol dm⁻³ sodium thiosulfate solution is used. The total volume of the reaction mixture in experiment 3 is 40.0 cm³.
+
+Calculate the initial rate of production of iodine, in mol dm⁻³ s⁻¹, for experiment 3.
+
+**Mark Scheme:**
+
+- M1: Amount of S₂O₃²⁻ = (1.00 × 10⁻³) / 1000 × 1.00 = 1.00 × 10⁻⁶ mol; amount of I₂ = ½ × amount of S₂O₃²⁻ = **5.00 × 10⁻⁷ mol**
+- M2: [I₂] = M1 / (40/1000) = **1.25 × 10⁻⁵ mol dm⁻³**
+- M3: Rate = M2 / 20 = **6.25 × 10⁻⁷ mol dm⁻³ s⁻¹** (= 3 marks; at least 2 sf so ALLOW 6.3 × 10⁻⁷)
+
+*(M3 if no M2: ALLOW mol of iodine from M1/20 e.g. 5 × 10⁻⁷ / 20 = 2.5 × 10⁻⁸ = 2 marks, M1 & M3)*
+
+---
+
+**0 2 . 5** [1 mark]
+
+The total uncertainty in the times recorded for each experiment is ±0.5 s but the stopwatch used has a measurement uncertainty of ±0.01 s.
+
+Suggest why, in each experiment, the uncertainty in the times recorded is greater than the measurement uncertainty of the stopwatch.
+
+**Mark Scheme:**
+
+(Observer) reaction time / time taken to stop timer is more significant / hard to determine 'end point' / colour change not instantaneous
+
+*(IGNORE 'human error' unqualified)*
+
+---
+
+**0 2 . 6** [1 mark]
+
+Calculate the percentage uncertainty in the time recorded in experiment 3.
+
+**Mark Scheme:**
+
+**2.5 (%)**
+
+*(NOT 2.55)*
+
+---
+
+**0 2 . 7** [2 marks]
+
+Suggest and explain how the method can be changed to decrease the percentage uncertainty in the times recorded.
+
+**Mark Scheme:**
+
+- M1: Increase the time (and so reduces percentage uncertainty)
+- M2: Use a greater concentration/amount of thiosulfate
+
+*(ALLOW greater volume of thiosulfate; ALLOW lower temperature; IGNORE use of colorimeter; IGNORE references to starch; IGNORE references to repeats / averages; NOT lower/greater total volume / adding water / lower/greater concentrations of reactants)*
+
+---
+
+### Question 3 — Electrochemistry (Fe³⁺/Fe²⁺ electrode)
+
+A student does an experiment to measure the standard electrode potential of an Fe³⁺/Fe²⁺ electrode at 298 K.
+
+---
+
+**0 3 . 1** [3 marks]
+
+Figure 1 shows **three** mistakes made by the student. Identify each mistake and the change needed to correct it.
+
+**Mark Scheme:**
+
+- M1: Mistake = the concentration of H₂SO₄ **OR** [H⁺] ≠ 1 mol dm⁻³; Change = use 0.5 mol dm⁻³ H₂SO₄ **OR** 1 mol dm⁻³ HCl/HNO₃ *(ALLOW 1 mark for 3 mistakes if no other mark; ALLOW if NaOH not mentioned e.g. salt bridge would react with H₂SO₄)*
+- M2: Mistake = NaOH / wrong substance on filter paper/salt bridge; Change = use KNO₃ *(ALLOW suitable alternative name or formula e.g. KCl)*
+- M3: Mistake = Fe / wrong electrode/metal (on RHS); Change = Pt *(ALLOW graphite OR different named unreactive metal e.g. Au, Ag — NOT Cu)*
+
+---
+
+**0 3 . 2** [1 mark]
+
+What feature of the voltmeter ensures that the voltmeter measures the cell EMF?
+
+**Mark Scheme:**
+
+**High resistance**
+
+---
+
+**0 3 . 3** [1 mark]
+
+The Fe³⁺/Fe²⁺ electrode is the positive electrode when the cell is set up correctly at 298 K. Give the redox equation for the overall reaction that occurs in the cell when the voltmeter is replaced with a lamp.
+
+**Mark Scheme:**
+
+2 Fe³⁺ + H₂ → 2 Fe²⁺ + 2 H⁺
+
+*(ALLOW multiples/fractions; IGNORE state symbols; NOT ⇌)*
+
+---
+
+**0 3 . 4** [6 marks]
+
+Table 4 shows standard electrode potentials:
+- Fe²⁺(aq) + 2e⁻ → Fe(s): –0.44 V
+- Cu²⁺(aq) + e⁻ → Cu⁺(aq): +0.15 V
+- Cu²⁺(aq) + 2e⁻ → Cu(s): +0.34 V
+- Cu⁺(aq) + e⁻ → Cu(s): +0.52 V
+- Fe³⁺(aq) + e⁻ → Fe²⁺(aq): +0.77 V
+
+Finely powdered iron filings are added to a solution of copper(II) sulfate and the mixture is stirred. The solution gradually changes from blue to pale green and a brown solid forms. Use the data to explain these observations, give an ionic equation, the conventional representation of the cell, and calculate the EMF.
+
+**Mark Scheme:**
+
+- M1: Cu is the brown (solid) *(IGNORE Fe³⁺ is brown)*
+- M2: Fe²⁺ is the (pale) green (solution)
+- M3: Because E° Fe²⁺/Fe more negative than E° Cu²⁺/Cu **OR** because E° Cu²⁺/Cu more positive than E° Fe²⁺/Fe *(ALLOW reference to +ve EMF of the correct cell/reaction; ALLOW E° Fe²⁺/Fe < E° Cu²⁺/Cu; IGNORE E° Fe²⁺/Fe greater than or less than E° Cu²⁺/Cu)*
+- M4: **Cu²⁺ + Fe → Cu + Fe²⁺** *(IGNORE state symbols; NOT ⇌)*
+- M5: **Fe(s) | Fe²⁺(aq) || Cu²⁺(aq) | Cu(s)** (State symbols required) *(ALLOW Cu(s) | Cu²⁺(aq) || Fe²⁺(aq) | Fe(s) only if Fe²⁺ + Cu → Fe + Cu²⁺ in M4)*
+- M6: **(+)0.78 (V)** *(M6 ECF from M4 or M5 where clear which two half equations are being used; NOT negative EMF)*
+
+---
+
+### Question 4 — Equilibrium (Fe³⁺ + I⁻)
+
+50.0 cm³ of 0.015 mol dm⁻³ Fe₂(SO₄)₃(aq) are mixed with 50.0 cm³ of 0.015 mol dm⁻³ KI(aq) at 40 °C and left until equilibrium is reached.
+
+2Fe³⁺(aq) + 2I⁻(aq) ⇌ 2Fe²⁺(aq) + I₂(aq)
+
+---
+
+**0 4 . 1** [1 mark]
+
+Give the expression for the equilibrium constant, Kc, for the equilibrium.
+
+**Mark Scheme:**
+
+$$K_c = \frac{[\text{Fe}^{2+}]^2[\text{I}_2]}{[\text{Fe}^{3+}]^2[\text{I}^-]^2}$$
+
+*(IGNORE state symbols; NOT ())*
+
+---
+
+**0 4 . 2** [2 marks]
+
+Before the titration, the sample is 'quenched' by adding 50 cm³ of ice-cold water. Suggest why the sample is 'quenched' in this way before the titration. Explain your answer.
+
+**Mark Scheme:**
+
+- M1: (Dilution and cooling) stops the reaction **OR** reduces rate *(ALLOW concentrations/amounts stay constant)*
+- M2: During the titration no more iodide formed **OR** during the titration the equilibrium will not shift *(NOT iodide concentration remains constant during titration)*
+
+---
+
+**0 4 . 3** [6 marks]
+
+The amount of I⁻(aq) in the equilibrium mixture is found to be 3.00 × 10⁻⁴ mol. Calculate the value of Kc at 40 °C for the equilibrium. Give the units of Kc. Assume that the total volume of the mixture remains constant at 100 cm³.
+
+**Mark Scheme:**
+
+- M1: Initial amount of Fe³⁺ = (50 × 0.015 × 2) / 1000 = **1.5 × 10⁻³ mol** AND initial amount of I⁻ = (50 × 0.015) / 1000 = **7.5 × 10⁻⁴ mol**
+- M2: Amount of I⁻ reacted = M1 I⁻ − 3 × 10⁻⁴ = **4.5 × 10⁻⁴ mol**
+- M3: Equilibrium amounts: Fe³⁺ = (M1 Fe³⁺ − M2) = **1.05 × 10⁻³ mol**; Fe²⁺ = M2 = **4.5 × 10⁻⁴ mol**; I₂ = M2/2 = **2.25 × 10⁻⁴ mol**
+- M4: Equilibrium concentrations: [I⁻] = 3 × 10⁻³ mol dm⁻³; [Fe³⁺] = 1.05 × 10⁻² mol dm⁻³; [Fe²⁺] = 4.5 × 10⁻³ mol dm⁻³; [I₂] = 2.25 × 10⁻³ mol dm⁻³
+- M5: Kc = (M4 Fe²⁺)² × M4 I₂ / ((M4 Fe³⁺)² × (M4 I⁻)²) = **(4.5 × 10⁻³)² × 2.25 × 10⁻³ / ((1.05 × 10⁻²)² × (3 × 10⁻³)²) = 45.9** (= 5 marks)
+- M6: Units = **mol⁻¹ dm³**
+
+*(459 = M1, M2, M3 & M5 if mole not concs used; 562.5 = M2 to M5 if M1 Fe³⁺ = 7.5 × 10⁻⁴)*
+
+---
+
+### Question 5 — Oxidation of Alcohols
+
+**0 5 . 1** [6 marks]
+
+A student has separate unlabelled samples of propan-1-ol and propan-2-ol. The student plans a series of steps to identify the alcohols:
+- **Step 1**: Oxidise each sample, distilling off the organic product as it is formed.
+- **Step 2**: Identify the organic products using a simple chemical test.
+- **Step 3**: Confirm the identities using the infrared spectrum of each original sample.
+
+Give further details of each step including: an appropriate oxidising agent used in Step 1; equations using [O] for each reaction in Step 1; a suitable test and expected observations in Step 2; how the infrared spectra can be used to confirm the identities.
+
+**Mark Scheme (Levels of Response — 6 marks):**
+
+**Level 3 (5–6 marks):** All stages covered and explanation of each stage is correct and virtually complete. Answer communicates the whole explanation, including equations, coherently and shows a logical progression through all three stages.
+
+**Level 2 (3–4 marks):** All stages are covered but the explanation of each stage may be incomplete or may contain inaccuracies OR two stages covered and the explanations are generally correct and virtually complete. Answer is coherent and shows some progression through all three stages.
+
+**Level 1 (1–2 marks):** Two stages are covered but the explanation of each stage may be incomplete or may contain inaccuracies OR only one stage is covered but the explanation is generally correct and virtually complete. Answer shows some progression between two stages.
+
+**Indicative content:**
+
+*Stage 1 — Oxidation of the alcohols (covered = 1/3; virtually complete = 2/3):*
+- 1a — use acidified potassium dichromate(VI) to oxidise both samples
+- 1b — CH₃CH₂CH₂OH + [O] → CH₃CH₂CHO + H₂O
+- 1c — CH₃CH(OH)CH₃ + [O] → CH₃COCH₃ + H₂O *(NOT molecular formulae)*
+
+*Stage 2 — Testing the aldehyde/ketone formed by the oxidation (covered = 1/3; virtually complete = 2/3):*
+- 2a — test both samples using Fehling's solution / Tollens' reagent / acidified potassium dichromate(VI)
+- 2b — propanal (or product of oxidation of propan-1-ol) will form brick red precipitate / silver mirror / (orange to) green (solution)
+- 2c — propanone (or product of oxidation of propan-2-ol) will have no visible change / no reaction
+
+*Stage 3 — Use of IR spectroscopy (covered = 1/3; virtually complete = 2/3):*
+- 3a — Both show absorption at 3230–3550 (for O–H alcohol)
+- 3b — use the fingerprint region of each sample
+- 3c — find an (exact) match to a database / idea that fingerprint region is unique to an individual compound
+
+---
+
+**0 5 . 2** [3 marks]
+
+A primary alcohol can be oxidised to form a carboxylic acid using an excess of the oxidising agent in Question 05.1. Give the condition needed for this reaction. Complete the diagram to show how the apparatus would be set up.
+
+**Mark Scheme:**
+
+- M1: Condition = **(heat under) reflux** *(ALLOW heat/boil if diagram looks like reflux; NOT ECF to incorrect diagram)*
+- M2: Must have a vertical condenser open at the very top **AND** no gap between the pear-shaped flask and the condenser *(NOT lines across water in/out tubes; NOT lines across the condenser at any height; NOT thermometer drawn anywhere in diagram)*
+- M3: Minimum labels must be water in, water out (or arrows) and condenser
+
+---
+
+**0 5 . 3** [1 mark]
+
+During oxidation reactions, anti-bumping granules are often added to the pear-shaped flask containing the reactants. State why anti-bumping granules are used.
+
+**Mark Scheme:**
+
+To produce (a steady stream of) tiny/small(er) bubbles **OR** to prevent large bubbles
+
+*(IGNORE "to prevent bumping")*
+
+---
+
+### Question 6 — Rapeseed Oil
+
+Figure 2 shows the structure of compound **Q** found in rapeseed oil. Each branch in the molecule is formed from a different long-chain carboxylic acid.
+
+---
+
+**0 6 . 1** [1 mark]
+
+State the type of stereoisomerism shown in Branch **A**.
+
+**Mark Scheme:**
+
+***E-Z* isomerism**
+
+*(ALLOW Z / geometric / cis-trans / cis)*
+
+---
+
+**0 6 . 2** [3 marks]
+
+**Q** can be reacted with methanol to form three different esters. State the number used to identify the position of the C=C bond in the name of the ester formed from Branch **A**. State the number of different stereoisomers of the ester formed from Branch **B**. Give a use for these esters.
+
+**Mark Scheme:**
+
+- M1: Number used in name of ester = **9**
+- M2: Number of stereoisomers = **four**
+- M3: Biodiesel / biofuel
+
+---
+
+**0 6 . 3** [2 marks]
+
+**Q** also reacts with NaOH. State the formula of the product formed by Branch **B** in Figure 2 in this reaction. State a use for this product.
+
+**Mark Scheme:**
+
+- M1: **C₁₈H₃₁O₂Na** / C₁₇H₃₁COONa *(ALLOW C₁₈H₃₁O₂⁻ / C₁₇H₃₁COO⁻; ALLOW any unambiguous formula/structure; ALLOW CHCH for CH=CH in structural formula; NOT O–Na i.e. covalent bond between O & Na)*
+- M2: Soaps / anionic surfactant *(NOT cationic surfactant / detergents / shampoo)*
+
+---
+
+## SECTION B — Multiple Choice
+
+| Q | Answer | Mark | Comment |
+|---|---|---|---|
+| 07 | **B** | 1 (AO2) | (C₂H₅)₃N⁺CH₃ |
+| 08 | **D** | 1 (AO3) | CH₃Br to CH₃OH |
+| 09 | **C** | 1 (AO1) | The rate of the reverse reaction increases |
+| 10 | **B** | 1 (AO1) | Curly arrow from C–H bond to C, and from lone pair on OH to H |
+| 11 | **A** | 1 (AO1) | Na₂O MgO Al₂O₃ = giant ionic; SiO₂ = giant covalent; P₄O₁₀ SO₃ = simple molecular |
+| 12 | **A** | 1 (AO2) | 19% |
+| 13 | **D** | 1 (AO2) | Propene |
+| 14 | **B** | 1 (AO1) | Colourless solution and effervescence |
+| 15 | **B** | 1 (AO1) | Atomic radius decreases |
+| 16 | **C** | 1 (AO1) | The first ionisation energy of P is less than that of S |
+| 17 | **C** | 1 (AO3) | Optical only |
+| 18 | **C** | 1 (AO1) | CH₃CHClCH=C(CH₃)COOH |
+| 19 | **D** | 1 (AO1) | SO₃ |
+| 20 | **A** | 1 (AO1) | Atomic radius |
+| 21 | **C** | 1 (AO1) | 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d³ |
+| 22 | **A** | 1 (AO1) | Tollens' reagent contains linear [Ag(NH₃)₂]⁺ ions |
+| 23 | **A** | 1 (AO1) | Addition of excess aqueous ammonia to [Co(H₂O)₆]²⁺ |
+| 24 | **D** | 1 (AO1) | It is anaerobic and the ethanol is separated by fractional distillation |
+| 25 | **B** | 1 (AO1) | Radon |
+| 26 | **C** | 1 (AO2) | A solution of hydrochloric acid containing 6 mol of HCl reacts completely with 1 mol of Al₂O₃ |
+| 27 | **B** | 1 (AO2) | FeCl₄⁻ |
+| 28 | **A** | 1 (AO1) | Alkanes obtained are converted to alkenes by thermal cracking |
+| 29 | **C** | 1 (AO2) | Correct dipeptide structure |
+| 30 | **D** | 1 (AO1) | Sodium, magnesium, chlorine (decreasing pH order) |
+| 31 | **C** | 1 (AO1) | Tetrahedral / pyramidal |
+| 32 | **B** | 1 (AO1) | Transplatin structure: Cl trans to NH₃ |
+| 33 | **C** | 1 (AO2) | U and V |
+| 34 | **B** | 1 (AO1) | Enzymes are polymers |
+| 35 | **A** | 1 (AO1) | [C₁₆H₃₃N(CH₃)₃]Br |
+| 36 | **A** | 1 (AO2) | Carbocation with +OH₂ group (tertiary carbocation) |
